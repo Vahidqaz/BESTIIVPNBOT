@@ -7,14 +7,14 @@ vless://f6e05036-6a82-4c82-af66-ba5e5de32201@www.speedtest.net:8443?path=%2FTele
 vless://Telegram-Archive_Android@Speedtest.net:443?path=%2F%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=ArchiveAndroid.Net&fp=edge&type=ws&sni=speedtest.net#%40BESTIIVPNBOT
 vless://Telegram-Archive_Android@[2a01:4f8:1c1c:525e::1]:45792?security=none&encryption=none&headerType=none&type=tcp#%40BESTIIVPNBOT
 vless://Telegram-Archive_Android@Speedtest.net:443?path=%2F%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=ArchiveAndroid.Net&fp=edge&type=ws&sni=speedtest.net#%40BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%5B%F0%9F%87%A6%F0%9F%87%AA%5Dt.me%2FConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw==@95.164.35.90:8388#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%5B%F0%9F%87%A6%F0%9F%87%AA%5Dt.me%2FConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%5B%F0%9F%87%A6%F0%9F%87%AA%5Dt.me%2FConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw==@95.164.35.90:8388#@BESTIIVPNBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@BESTIIVPNBOT
