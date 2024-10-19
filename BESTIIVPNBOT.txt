@@ -1,187 +1,30 @@
-{
-  "remarks": "Tel= arshiacomplus - Warp",
-  "log": {
-    "loglevel": "warning"
-  },
-  "dns": {
-    "hosts": {
-      "geosite:category-ads-all": "127.0.0.1",
-      "geosite:category-ads-ir": "127.0.0.1"
-    },
-    "servers": [
-      "https://94.140.14.14/dns-query",
-      {
-        "address": "8.8.8.8",
-        "domains": [
-          "geosite:category-ir",
-          "domain:.ir"
-        ],
-        "expectIPs": [
-          "geoip:ir"
-        ],
-        "port": 53
-      }
-    ],
-    "tag": "dns"
-  },
-  "inbounds": [
-    {
-      "port": 10808,
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "userLevel": 8
-      },
-      "sniffing": {
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "enabled": true,
-        "routeOnly": true
-      },
-      "tag": "socks-in"
-    },
-    {
-      "port": 10809,
-      "protocol": "http",
-      "settings": {
-        "auth": "noauth",
-        "udp": true,
-        "userLevel": 8
-      },
-      "sniffing": {
-        "destOverride": [
-          "http",
-          "tls"
-        ],
-        "enabled": true,
-        "routeOnly": true
-      },
-      "tag": "http-in"
-    },
-    {
-      "listen": "127.0.0.1",
-      "port": 10853,
-      "protocol": "dokodemo-door",
-      "settings": {
-        "address": "1.1.1.1",
-        "network": "tcp,udp",
-        "port": 53
-      },
-      "tag": "dns-in"
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "wireguard",
-      "settings": {
-        "address": [
-          "172.16.0.2/32",
-          "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"
-        ],
-        "mtu": 1300,
-        "peers": [
-          {
-            "endpoint": "162.159.192.246:878",
-            "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
-          }
-        ],
-        "reserved": [
-          45,
-          192,
-          247
-        ],
-        "secretKey": "4CCAEgFWdWasBhoySOizXmdVjlQA48wk11lbIOdpqlc=",
-        "keepAlive": 10,
-        "wnoise": "quic",
-        "wnoisecount": "10-15",
-        "wpayloadsize": "1-8",
-        "wnoisedelay": "1-3"
-      },
-      "tag": "warp"
-    },
-    {
-      "protocol": "dns",
-      "tag": "dns-out"
-    },
-    {
-      "protocol": "freedom",
-      "settings": {},
-      "tag": "direct"
-    },
-    {
-      "protocol": "blackhole",
-      "settings": {
-        "response": {
-          "type": "http"
-        }
-      },
-      "tag": "block"
-    }
-  ],
-  "policy": {
-    "levels": {
-      "8": {
-        "connIdle": 300,
-        "downlinkOnly": 1,
-        "handshake": 4,
-        "uplinkOnly": 1
-      }
-    },
-    "system": {
-      "statsOutboundUplink": true,
-      "statsOutboundDownlink": true
-    }
-  },
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "inboundTag": [
-          "dns-in"
-        ],
-        "outboundTag": "dns-out",
-        "type": "field"
-      },
-      {
-        "ip": [
-          "8.8.8.8"
-        ],
-        "outboundTag": "direct",
-        "port": "53",
-        "type": "field"
-      },
-      {
-        "domain": [
-          "geosite:category-ir",
-          "domain:.ir"
-        ],
-        "outboundTag": "direct",
-        "type": "field"
-      },
-      {
-        "ip": [
-          "geoip:ir"
-        ],
-        "outboundTag": "direct",
-        "type": "field"
-      },
-      {
-        "domain": [
-          "geosite:category-ads-all",
-          "geosite:category-ads-ir"
-        ],
-        "outboundTag": "block",
-        "type": "field"
-      },
-      {
-        "outboundTag": "warp",
-        "type": "field",
-        "network": "tcp,udp"
-      }
-    ]
-  },
-  "stats": {}
-}
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=m9-mahsang.pages.dev&type=ws&sni=pages.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pa5-speedtest.tools.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=26.gcr.dns04.com&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pa5-speedtest.tools.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=44.gcr.dns04.com&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@digg.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=m12-mahsang.pages.dev&type=ws&sni=pages.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@vimeo.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=m8-mahsang.pages.dev&type=ws&sni=pages.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.74:443?path=%2FrM1BZj7i0slBMnkL%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BPB-V.pAgEs.Dev&fp=randomized&type=ws&sni=bPb-v.PageS.DeV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.39.248:443?path=%2FjvmJZubxo1de7fVL%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=bPB-V.paGEs.Dev&fp=randomized&type=ws&sni=BPb-v.PaGES.deV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2087?path=%2FfQ1Hi9AZ5SlDPHDj&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=cLOUdFlareIRAN1.pAges.dEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.144:443?path=%2FYu9lNnJtjneED148%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=bpB-v.PagEs.DEV&fp=randomized&type=ws&sni=bPB-v.PAGEs.dEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.144:2053?path=%2F0JpojADWzjxEjdny%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BPb-v.PageS.DEV&fp=randomized&type=ws&sni=BpB-V.PagEs.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.75:2053?path=%2FbMJZjhu9IUDMPeYa%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BpB-v.pAges.DEv&fp=randomized&type=ws&sni=BpB-V.PAges.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.157:2053?path=%2FTezx8w7Nlnn2HX7S%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BPB-v.pAgES.Dev&fp=randomized&type=ws&sni=BPb-V.paGES.DEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.126:2053?path=%2F3i63RpbJv7ea1LdW%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BPB-V.PAGes.dEV&fp=randomized&type=ws&sni=Bpb-v.pAGes.dEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.219.192:2053?path=%2FS3QgG3ageIHh94xO%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=bPB-v.paGeS.deV&fp=randomized&type=ws&sni=bPB-v.pageS.DEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.39.248:2053?path=%2FOwgH98DpYrVEawYB%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=bpb-v.PAgES.dEv&fp=randomized&type=ws&sni=bpb-V.pAges.DEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.244.18:443?path=%2FGEmuICazr0SxzUMs%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=Bpb-v.PaGEs.DeV&fp=randomized&type=ws&sni=bPb-v.PagEs.DEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=%2FT8FYOfHlaypHG8Bz&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOudflaREIRaN1.pAgeS.dEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2053?path=%2FcfrirGjZ78lvR1u7&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLOUdFLarEIrAn1.paGes.deV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FTornIR267voeTX5H&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLouDfLaREIRAn1.PAGES.DEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@homestead.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=m11-mahsang.pages.dev&type=ws&sni=pages.dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2096?path=%2FUn5OCYuEIc6Qy8LG&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=cLoUdFlAReiran1.pAGES.DEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:2087?path=%2FarYmIiTmiXasTC0e&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLoudFlAreiran1.PAgES.dEV#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pa5-speedtest.tools.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=10.gcr.dns04.com&fp=chrome&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2096?path=%2Fkugkj8jTriovn4KZ&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=cLOuDFLaREiRaN1.PAGes.Dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@ns3.gcorelabs.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=45.gcr.dns04.com&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@ns4.gcorelabs.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=48.gcr.dns04.com&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FTIvarEu13APAzJ86&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLoUDflaREiRaN1.PAgEs.Dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://f2004126-5865-4980-b6dd-2211dbaadf10@pa5-speedtest.tools.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=34.gcr.dns04.com&type=ws&sni=gcore.com#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FIs3gCo1wzSoOyxoV&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLOuDFLarEIRan1.PaGES.dEv#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2053?path=%2FHja7qRNEPxN4dWsE&security=tls&alpn=http%2F1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=CLouDflaREiRaN1.pageS.Dev#%E2%9C%A8BESTIIVPNBOT%E2%9C%A8
