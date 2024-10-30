@@ -23,4 +23,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.202:2053?path=%2F8EZOONoH
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@go.inmobi.com:2053?path=%2FyFvXZrnt18tEHj1A%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=BpB-v.PaGes.DeV&fp=randomized&type=ws&sni=bPb-V.PAgES.dEv#%E2%98%A3%EF%B8%8FBESTIIVPNBOT%E2%98%A3%EF%B8%8F
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@speedtest-fr5.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=38.gcr.dns04.com&type=ws&sni=gcore.com#%E2%98%A3%EF%B8%8FBESTIIVPNBOT%E2%98%A3%EF%B8%8F
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@fr5-speedtest.tools.gcore.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=25.gcr.dns04.com&type=ws&sni=gcore.com#%E2%98%A3%EF%B8%8FBESTIIVPNBOT%E2%98%A3%EF%B8%8F
-hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?security=tls&insecure=1&sni=www.bing.com#%E2%98%A3%EF%B8%8FBESTIIVPNBOT%E2%98%A3%EF%B8%8F
