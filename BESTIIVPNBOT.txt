@@ -58,7 +58,6 @@ vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rp
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
-V2RAY_CONFIGS_POOL:
 vless://725bac5a-48ef-4054-b7fe-c5ddb5138853@79.127.70.76:2052?security=none&encryption=none&host=doostihaa.com+%40Client_Proo&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
 
 vless://725bac5a-48ef-4054-b7fe-c5ddb5138853@79.127.70.76:2052?security=none&encryption=none&host=doostihaa.com+%40Client_Proo&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
