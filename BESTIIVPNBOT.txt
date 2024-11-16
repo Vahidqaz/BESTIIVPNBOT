@@ -1,19 +1,5 @@
 V2RAY_CONFIGS_POOL:
-vless://4cd1e86a-db85-4826-b379-626d4512a524@protect.imageflowai.ir:2096?encryption=none&security=none&type=grpc&authority=filimo.com&serviceName=2096vless&mode=gun#BESTIIVPNBOT🇩🇪Germany
-
-vless://4cd1e86a-db85-4826-b379-626d4512a524@protect.imageflowai.ir:2096?encryption=none&security=none&type=grpc&authority=filimo.com&serviceName=2096vless&mode=gun#BESTIIVPNBOT🇩🇪Germany
-
-trojan://telegram-id-directvpn@18.153.143.115:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#BESTIIVPNBOT🇩🇪Germany
-
-vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#BESTIIVPNBOT🇩🇪Germany
-
-vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#BESTIIVPNBOT🇩🇪Germany
-
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#BESTIIVPNBOT🇩🇪Germany
-
-trojan://telegram-id-privatevpns@52.59.156.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPNBOT🇩🇪Germany
-
-trojan://telegram-id-privatevpns@3.66.65.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPNBOT🇩🇪Germany
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#BESTIIVPNBOT🇩🇪Germany
 
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1618?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
@@ -30,6 +16,10 @@ vless://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1623?security=reali
 vless://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
 vless://7e6c5fae-62fe-4ed0-a4b2-64d4170c556b@188.245.197.174:1623?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#BESTIIVPNBOT🇩🇪Germany
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#BESTIIVPNBOT🇩🇪Germany
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.201.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#BESTIIVPNBOT🇩🇪Germany
 
@@ -43,6 +33,14 @@ trojan://telegram-id-directvpn@63.176.26.28:22222?security=tls&sni=trojan.burger
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.253.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#BESTIIVPNBOT🇩🇪Germany
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZzRWZVFJV29qVWFwbWhxSlV3cERY@81.19.141.45:52873#BESTIIVPNBOT🇩🇪Germany
+
+vless://45f48971-d58e-4068-898d-53243032380b@1621.postsafir.ir:1621?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
+
+vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
+
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#BESTIIVPNBOT🇩🇪Germany
+
 vless://45f48971-d58e-4068-898d-53243032380b@1621.postsafir.ir:1621?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
@@ -51,67 +49,14 @@ vless://45f48971-d58e-4068-898d-53243032380b@1621.postsafir.ir:1621?flow=xtls-rp
 
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
-vless://45f48971-d58e-4068-898d-53243032380b@1621.postsafir.ir:1621?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
-
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
 vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
 
-vless://45f48971-d58e-4068-898d-53243032380b@1620.postsafir.ir:1620?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#BESTIIVPNBOT🇩🇪Germany
-vless://725bac5a-48ef-4054-b7fe-c5ddb5138853@79.127.70.76:2052?security=none&encryption=none&host=doostihaa.com+%40Client_Proo&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
+vless://4cd1e86a-db85-4826-b379-626d4512a524@protect.imageflowai.ir:2096?encryption=none&security=none&type=grpc&authority=filimo.com&serviceName=2096vless&mode=gun#BESTIIVPNBOT🇩🇪Germany
 
-vless://725bac5a-48ef-4054-b7fe-c5ddb5138853@79.127.70.76:2052?security=none&encryption=none&host=doostihaa.com+%40Client_Proo&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
+trojan://telegram-id-privatevpns@3.66.65.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPNBOT🇩🇪Germany
 
-vless://08bfa459-a5f0-4d69-bb6a-648e91fe2ff5@tinyvpn-cdn1.unlimiteddev.co:8080?encryption=none&security=none&type=ws&path=%2F#BESTIIVPNBOT🇮🇷Iran
+trojan://telegram-id-privatevpns@18.196.240.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPNBOT🇩🇪Germany
 
-vless://08bfa459-a5f0-4d69-bb6a-648e91fe2ff5@tinyvpn-cdn1.unlimiteddev.co:8080?encryption=none&security=none&type=ws&path=%2F#BESTIIVPNBOT🇮🇷Iran
-
-vless://fdd40919-073a-4ed1-998a-3406334f9c8d@62.60.192.120:3002?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@94.182.222.16:323?encryption=none&security=none&type=tcp&headerType=http&host=7z90w2qs.cafebazaar.ir%2C7z90w2qs.divarcdn.com#BESTIIVPNBOT🇮🇷Iran
-
-vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@94.182.222.16:323?encryption=none&security=none&type=tcp&headerType=http&host=7z90w2qs.cafebazaar.ir%2C7z90w2qs.divarcdn.com#BESTIIVPNBOT🇮🇷Iran
-
-vless://af515e72-cba6-4654-eb33-a490ab5e48f6@193.106.191.36:80?encryption=none&security=none&type=ws&path=%2Ftr-11-16%2Fwp-content%3Fed%3D2048#BESTIIVPNBOT🇮🇷Iran
-
-vless://e5fbf42f-cda2-4f23-a21b-a8ac0037baba@85.9.127.182:14922?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
-
-vless://86b0bdc5-94fe-4791-8874-7c7952c40022@85.133.197.143:2052?encryption=none&security=none&type=tcp&headerType=http&host=idem.ir#BESTIIVPNBOT🇮🇷Iran
-
-vless://5312a88f-3939-4d56-91fc-4e678de14722@local.connectix-d1.info:44444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&spx=%2F&type=tcp&headerType=none#BESTIIVPNBOT🇮🇷Iran
-
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#BESTIIVPNBOT🇮🇷Iran
-
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#BESTIIVPNBOT🇮🇷Iran
-
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#BESTIIVPNBOT🇮🇷Iran
-
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#BESTIIVPNBOT🇮🇷Iran
-
-vless://9f259fdd-cb89-478d-9bf3-dfe5d6eddcd1@217.60.249.171:45375?security=none&type=tcp&host=telewebion.com&headerType=http#BESTIIVPNBOT🇮🇷Iran
-
-vless://fdd40919-073a-4ed1-998a-3406334f9c8d@62.60.192.120:3002?security=none&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://fdd40919-073a-4ed1-998a-3406334f9c8d@62.60.192.120:3002?security=none&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://fdd40919-073a-4ed1-998a-3406334f9c8d@62.60.192.120:3002?security=none&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
-
-vless://5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?security=none&encryption=none&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?security=none&encryption=none&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://bfe2a30b-f93a-48b9-a15b-3f123d2cf0db@france.senoghte.pw:52692?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://97d6afaf-eca4-48ac-bba6-75fe7b416e4c@79.127.70.87:8282?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
-
-vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT🇮🇷Iran
+trojan://telegram-id-privatevpns@18.196.240.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#BESTIIVPNBOT🇩🇪Germany
