@@ -1,35 +1,3698 @@
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=2.jnpfn20.net&fp=chrome&type=ws&sni=mio.splashthat.com#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=London.nufilter.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=1.Hjgidxx11.net&fp=chrome&type=ws&sni=mio.splashthat.com#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=1.Hjgidxx11.net&fp=chrome&type=ws&sni=mio.splashthat.com#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.23.242:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%93%A1%F0%9F%87%AC%F0%9F%87%A7United+Kingdom
-vless://vpnowl-vpnowl@owl.applegrafix.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=sprL7tMyJtcGE08gTDHd-1wY_IuNiwaddkGCvHZzHnw&fp=firefox&spx=%2Fdownload%2F&type=grpc&serviceName=vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl&sni=wordpress.org&sid=7c174089#%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.217.73.58:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%AAIreland
-vless://f692de49-fb4a-5de8-9cb8-5c6e88fa9aeb@151.101.66.133:443?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBede--VPNCUSTOMIZE.COM&fp=safari&type=ws&sni=clearcreditrepair.com#
-vless://Telegram-id-@AB_841@tel-ab_841.ir.speedtest.net.zula.ir.ddns-ip.net:4030?mode=gun&security=reality&encryption=none&authority=&pbk=_K0bH9gnO2Ogq7UogfYB3gHbNzfEcy5urnG5tecElBY&fp=random&spx=%2Ftelegram-%40AB_841&type=grpc&serviceName=Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray-----Telegram%3A%40ViP_Fragment_V2ray&sni=wordpress.org&sid=d7#%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://219e715d-a736-49ed-8a15-56a986a7d97e@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=leader-of-www.com&type=ws#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://53bdec1d-b3bc-4a68-b2b3-0d2585e0aceb@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isa.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://548de56a-cc35-4723-823c-c4422216a1d9@zmaoz.faculty.ucdavis.edu:443?path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=tls&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-trojan://q7odo5DcWB@tabnak.twn24.ir:443?path=%2F53008%2F%3Fed%3D2048&security=tls&alpn=http/1.1&host=tabnak.twn24.ir&fp=chrome&type=ws&sni=tabnak.twn24.ir#
-vless://53bdec1d-b3bc-4a68-b2b3-0d2585e0aceb@TLS.zeoaeriedo-saioesrio.ir:2000?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
-vless://7c95e3b5-9c45-4795-f954-b0ca84e648a9@tabnak.twn24.ir:443?path=%2F41929%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=tabnak.twn24.ir&fp=chrome&type=ws&sni=tabnak.twn24.ir#
-vless://5b608ce2-011a-43aa-9e6c-0e93b3983edd@tabnak.twn24.ir:443?path=%2F37089%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=tabnak.twn24.ir&fp=chrome&type=httpupgrade&sni=tabnak.twn24.ir#
-vless://f24c21a9-74ab-4496-fd7b-c7df9731420f@tabnak.twn24.ir:2087?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=tabnak.twn24.ir&fp=chrome&type=httpupgrade&sni=tabnak.twn24.ir#
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8United+States
-trojan://6rhH5OXWJV@tabnak.twn24.ir:443?path=%2F53203%2F%3Fed%3D2048&security=tls&alpn=http/1.1&host=tabnak.twn24.ir&fp=chrome&type=httpupgrade&sni=tabnak.twn24.ir#
-vless://98585d5f-221a-4e8b-afe1-83c98da79b4f@93.126.50.231:51234?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7Iran
-vmess://eyJhZGQiOiJ0YWJuYWsudHduMjQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidGFibmFrLnR3bjI0LmlyIiwiaWQiOiJjOGNlYzYxYi1lZmQyLTRhMTAtOGI5Yi00MjM1YmRiODYwMWEiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvMTI2MTUvP2VkXHUwMDNkMjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0YWJuYWsudHduMjQuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+#---------------------------------------------------#
+## last update：2024-12-25 08:27:29.620052
+#---------------------------------------------------#
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: rule
+log-level: silent
+external-controller: '0.0.0.0:9090'
+secret: ''
+dns:
+  enable: true
+  ipv6: false
+  listen: '0.0.0.0:53'
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 'tcp://223.5.5.5'
+    - 223.6.6.6
+    - 119.29.29.29
+    - 8.8.8.8
+    - 114.114.114.114
+  fallback:
+    - 'tls://223.5.5.5:853'
+    - 'https://223.5.5.5/dns-query'
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+    domain:
+      - '+.google.com'
+      - '+.facebook.com'
+      - '+.youtube.com'
+
+proxies:
+  - cipher: chacha20-ietf-poly1305
+    name: AE-40.172.90.63-1159 | 8.741MB
+    password: u17T3BvpYaaiuW2c
+    port: 443
+    server: api.namasha.co
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: AE-40.172.90.63-1160 | 8.693MB
+    password: u17T3BvpYaaiuW2c
+    port: 443
+    server: series-a2-mec.varzesh360.co
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: AT-95.164.9.144-5627 | 8.63MB
+    password: ug4Fu79SEREdFGlt2sUyT4
+    port: 2927
+    server: 95.164.9.144
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: BH-15.185.105.32-0524 | 9.174MB
+    password: Bog0ELmMM9DSxDdQ
+    port: 443
+    server: series-a2-me.varzesh360.co
+    type: ss
+  - name: BR-168.138.142.53-1161 | 13.205MB
+    password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a
+    port: 443
+    server: 168.138.142.53
+    skip-cert-verify: false
+    sni: bz02.ssr.ee
+    type: trojan
+  - name: BR-168.138.142.53-6290 | 13.229MB
+    password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a
+    port: 443
+    server: bz02.ssr.ee
+    skip-cert-verify: false
+    sni: bz02.ssr.ee
+    type: trojan
+  - cipher: aes-128-gcm
+    name: CH-156.146.62.161-0434 | 15.397MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.62.161
+    type: ss
+  - cipher: aes-128-gcm
+    name: CH-156.146.62.162-0438 | 15.465MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.62.162
+    type: ss
+  - cipher: aes-128-gcm
+    name: CH-156.146.62.163-0436 | 15.338MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.62.163
+    type: ss
+  - cipher: aes-128-gcm
+    name: CH-156.146.62.164-0435 | 14.945MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.62.164
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: CZ-195.181.160.6-0442 | 15.066MB
+    password: f8f7aCzcPKbsF8p3
+    port: 990
+    server: 195.181.160.6
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: CZ-94.131.97.22-6521 | 15.03MB
+    password: cN5RRTw7vYadEdRcdIduix
+    port: 5139
+    server: 94.131.97.22
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: EE-147.45.60.33-0448 | 15.354MB
+    password: LqlPI19oqnunGNSLMvdXyB
+    port: 16356
+    server: 147.45.60.33
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: HU-91.219.237.102-0452 | 15.232MB
+    password: f8f7aCzcPKbsF8p3
+    port: 990
+    server: 91.219.237.102
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: IE-13.79.98.64-0924 | 19.5MB
+    password: 49JPbl6SMH1hDoskOR6irG
+    port: 55939
+    server: 13.79.98.64
+    type: ss
+  - name: IE-34.247.208.132-1396 | 19.341MB
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 34.247.208.132
+    skip-cert-verify: false
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - cipher: aes-256-cfb
+    name: KE-62.12.116.66-0467 | 9.63MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 62.12.116.66
+    type: ss
+  - cipher: aes-256-cfb
+    name: KZ-213.156.137.67-0470 | 9.665MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 213.156.137.67
+    type: ss
+  - cipher: aes-256-cfb
+    name: LT-195.238.126.84-1172 | 14.867MB
+    password: qYEN5HX4JKeVCdEC
+    port: 9039
+    server: 195.238.126.84
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.157-1174 | 16.855MB
+    password: 4a2rfixophdjffa8KVA4Aa
+    port: 8080
+    server: 45.87.175.157
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.171-1483 | 16.931MB
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    port: 8080
+    server: 45.87.175.171
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.171-1520 | 16.415MB
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    port: 8080
+    server: 45.87.175.171
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.178-1175 | 16.875MB
+    password: 4a2rfixophdjffa8KVA4Aa
+    port: 8080
+    server: 45.87.175.178
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.181-1512 | 16.834MB
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    port: 8080
+    server: 45.87.175.181
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.188-1176 | 16.478MB
+    password: 4a2rfixophdjffa8KVA4Aa
+    port: 8080
+    server: 45.87.175.188
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.192-1177 | 9.921MB
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    port: 8080
+    server: 45.87.175.192
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.192-1516 | 16.348MB
+    password: 1RWwXhwfAB5gAEozU4G2Pg
+    port: 8080
+    server: beesyar.org
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: LT-45.87.175.199-0738 | 11.113MB
+    password: 4a2rfixophdjffa8KVA4Aa
+    port: 8080
+    server: 45.87.175.199
+    type: ss
+  - cipher: aes-256-cfb
+    name: MD-178.175.134.2-0457 | 13.014MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 178.175.134.2
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: NO-51.13.115.105-1400 | 15.067MB
+    password: ZTqcA3pg0tY0qKKP240BQT
+    port: 48963
+    server: 51.13.115.105
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: NO-51.13.115.55-1180 | 15.407MB
+    password: MZRSFDJxkMhGytZaw3NLHl
+    port: 40826
+    server: 51.13.115.55
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: RELAY-104.17.197.31-9100 | 42.445MB
+    network: ws
+    port: 443
+    server: 104.17.197.31
+    servername: RELAY-104.17.197.31-9100 | 42.445MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca
+    ws-opts:
+      headers:
+        Host: quiet-moon-132a.xetag42714.workers.dev
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: RELAY-104.21.1.32-6008 | 93.045MB
+    network: ws
+    port: 443
+    server: 3.clarity168.com
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 48f837fa-12d0-498d-b5f6-94f9979736a4
+    ws-opts:
+      headers:
+        Host: 3.clarity168.com
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: RELAY-172.67.133.78-0830 | 11.507MB
+    network: ws
+    port: 8443
+    server: 172.67.133.78
+    servername: RELAY-172.67.133.78-0830 | 11.507MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+    ws-opts:
+      headers:
+        Host: lax2.ibgfw.top
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: RELAY-173.245.58.5-9109 | 39.927MB
+    network: ws
+    port: 443
+    server: 173.245.58.5
+    servername: RELAY-173.245.58.5-9109 | 39.927MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+    ws-opts:
+      headers:
+        Host: worker-bitter-math-2af8.waxoha3621.workers.dev
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: RELAY-185.135.9.153-0842 | 11.434MB
+    network: ws
+    port: 8443
+    server: 185.135.9.153
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: e88b85c6-93b4-47f6-b3fb-2c55dcb1289f
+    ws-opts:
+      headers:
+        Host: lax2.ibgfw.top
+      path: /
+  - cipher: aes-256-cfb
+    name: RO-194.14.217.115-0450 | 14.264MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 194.14.217.115
+    type: ss
+  - cipher: aes-256-cfb
+    name: RS-194.71.126.31-0458 | 14.871MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 194.71.126.31
+    type: ss
+  - cipher: aes-256-cfb
+    name: SE-121.127.46.147-0447 | 15.031MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 121.127.46.147
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: SE-46.246.98.155-0443 | 15.416MB
+    password: UDcjYQ6Z6AIWxViZpqyOmO
+    port: 44013
+    server: 46.246.98.155
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: SE-94.228.165.178-0495 | 13.276MB
+    password: afKAHp1VfRWZu91LIi9o0D
+    port: 58176
+    server: 94.228.165.178
+    type: ss
+  - cipher: aes-256-cfb
+    name: TR-45.89.52.66-0522 | 8.907MB
+    password: HSZuyJQcWe8dxNdF
+    port: 9043
+    server: 45.89.52.66
+    type: ss
+  - cipher: aes-256-cfb
+    name: TR-45.89.52.66-0541 | 8.434MB
+    password: M3t2ZEQcMGRWBjRa
+    port: 9011
+    server: 45.89.52.66
+    type: ss
+  - cipher: aes-256-cfb
+    name: TR-45.89.52.66-0555 | 11.397MB
+    password: TN2YqghxeFDKZfLU
+    port: 9037
+    server: 45.89.52.66
+    type: ss
+  - cipher: aes-256-cfb
+    name: TR-45.89.52.66-1201 | 9.521MB
+    password: ZET59LF6DvCC8KVt
+    port: 9005
+    server: 45.89.52.66
+    type: ss
+  - alterId: 1
+    cipher: auto
+    name: 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+    network: ws
+    port: 443
+    server: 172.105.172.209
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: 172.105.172.209
+      path: /
+  - name: 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+    password: e8105dfd24414268b6c7652c63731097
+    port: 443
+    server: avianrecruit.com
+    skip-cert-verify: false
+    type: trojan
+  - alterId: 0
+    cipher: auto
+    name: 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+    network: ws
+    port: 443
+    server: 134.195.198.147
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: inna.cfd
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+    password: JIhN6rBKkaEboLNXVSv5rq
+    port: 80
+    server: 142.4.216.225
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+    password: shadowsocks
+    port: 443
+    server: 149.22.95.183
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+    network: ws
+    port: 443
+    server: denc36.xtooltech.cfd
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: b321fd5d-e6ec-4293-a644-164e3885f52e
+    ws-opts:
+      headers:
+        Host: adenc36v.xtooltech.cfd
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+    network: ws
+    port: 443
+    server: 23.162.200.227
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+    network: ws
+    port: 443
+    server: 23.162.200.94
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+      path: /
+  - name: 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+    password: telegram-id-directvpn
+    port: 22222
+    server: 99.79.182.60
+    skip-cert-verify: false
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - alterId: 0
+    cipher: auto
+    name: 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+    network: ws
+    port: 443
+    server: frankfurt03.zgjok.com
+    servername: 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 4f7c2243-a38a-4672-983b-f1378aee0a7f
+    ws-opts:
+      headers:
+        Host: frankfurt03.zgjok.com
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+    password: RpKjmawAISTCswn1OyrmUd
+    port: 25543
+    server: 150.241.101.222
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+    password: MDtZ$d1lcz
+    port: 12271
+    server: 150.241.95.63
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+    password: qbY6=zGuFl
+    port: 37774
+    server: 150.241.95.63
+    type: ss
+  - name: 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+    password: telegram-id-directvpn
+    port: 22222
+    server: 18.193.12.24
+    skip-cert-verify: false
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - cipher: rc4-md5
+    name: 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 193.108.119.230
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+    password: zICSEUoR7VQVG9ayY/A0DxEnb2MaMqpT4UmE4L/hJWk=
+    port: 39490
+    server: 45.150.32.116
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+    network: ws
+    port: 443
+    server: 57.129.24.125
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+    network: ws
+    port: 443
+    server: 57.129.24.141
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+    password: ECjp87TIkUiJ5AhRZglZ9E
+    port: 40076
+    server: 194.87.45.189
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+    password: p9z5BVADH2YFs3MN
+    port: 9040
+    server: 5.188.181.201
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+    network: ws
+    port: 443
+    server: az05.beyondy.cfd
+    servername: 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+    ws-opts:
+      headers:
+        Host: az05.beyondy.cfd
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+    network: ws
+    port: 443
+    server: 146.19.168.161
+    servername: 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+    ws-opts:
+      headers:
+        Host: az05.beyondy.cfd
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+    network: ws
+    port: 443
+    server: beyonddbc.sbs
+    servername: 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 8d90c129-4156-4d6c-9115-24df25f26a02
+    ws-opts:
+      headers:
+        Host: beyonddbc.sbs
+      path: /
+  - cipher: aes-256-cfb
+    name: 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 195.154.169.198
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 195.154.185.174
+    type: ss
+  - name: 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 35.180.76.113
+    skip-cert-verify: false
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - cipher: aes-256-cfb
+    name: 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 51.15.27.48
+    type: ss
+  - cipher: rc4-md5
+    name: 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 51.158.244.38
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 51.159.111.208
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+    network: ws
+    port: 443
+    server: 51.77.20.137
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: tilebani.com
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+    password: s#W0tqg%@N
+    port: 23022
+    server: 109.120.186.9
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+    password: shadowsocks
+    port: 443
+    server: 141.98.101.178
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+    password: shadowsocks
+    port: 443
+    server: 141.98.101.179
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+    password: shadowsocks
+    port: 443
+    server: 141.98.101.180
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+    password: shadowsocks
+    port: 443
+    server: 141.98.101.182
+    type: ss
+  - cipher: rc4-md5
+    name: 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 146.70.61.18
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+    network: ws
+    port: 443
+    server: 149.7.16.174
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+    network: ws
+    port: 443
+    server: 149.7.16.188
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 1
+    cipher: auto
+    name: 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+    network: ws
+    port: 443
+    server: 149.7.16.194
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+    network: ws
+    port: 443
+    server: 149.7.16.73
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - cipher: rc4-md5
+    name: 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 169.150.210.233
+    type: ss
+  - name: 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+    password: 4732adfa16c6450bbef87264e41332db
+    port: 443
+    server: 172.99.190.180
+    skip-cert-verify: false
+    sni: bangladeshipatri.com
+    type: trojan
+  - name: 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+    password: 4732adfa16c6450bbef87264e41332db
+    port: 443
+    server: bangladeshipatri.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+    password: 984e400bf5d541b7b0815913fe0c432a
+    port: 443
+    server: bangladeshipatri.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+    password: 4732adfa16c6450bbef87264e41332db
+    port: 443
+    server: 172.99.190.180
+    skip-cert-verify: false
+    sni: bangladeshipatri.com
+    type: trojan
+  - alterId: 0
+    cipher: auto
+    name: 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+    network: ws
+    port: 443
+    server: 172.99.190.206
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 1
+    cipher: auto
+    name: 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+    network: ws
+    port: 443
+    server: 172.99.190.50
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - name: 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+    password: telegram-id-privatevpns
+    port: 22222
+    server: 18.175.2.75
+    skip-cert-verify: false
+    sni: trojan.burgerip.co.uk
+    type: trojan
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.193
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.194
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.195
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.196
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+    password: shadowsocks
+    port: 443
+    server: uk-dc1.yangon.club
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.197
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.198
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.78
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.79
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.80
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.53.81
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+    password: W74XFALLLuw6m5IA
+    port: 443
+    server: series-a1.samanehha.co
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+    password: mps3FwmDjLrWaOVg
+    port: 443
+    server: series-a2.varzesh360.co
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+    password: mps3FwmDjLrWaOVg
+    port: 443
+    server: series-a2.samanehha.co
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 77.72.5.113
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+    password: aXuV8k5a4NFmkphgr5NTlL
+    port: 52338
+    server: 89.185.84.185
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+    password: WfmxKX2FBJRU0Ie9VLIYDL
+    port: 20012
+    server: 141.98.234.93
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+    password: p7EhC8MR7o7GuRn27YF8SQNAKJ2lUbBNIjcyqSmBHsy8wLbJ
+    port: 51348
+    server: 159.65.149.72
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+    password: amazonskr05
+    port: 443
+    server: 13.230.239.136
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+    password: amazonskr05
+    port: 443
+    server: 18.179.197.216
+    type: ss
+  - name: 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+    password: xjN4xcuPGg
+    port: 45101
+    server: a.522226.xyz
+    skip-cert-verify: false
+    type: trojan
+  - cipher: aes-256-cfb
+    name: 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+    password: amazonskr05
+    port: 443
+    server: 43.203.141.93
+    type: ss
+  - cipher: aes-128-cfb
+    name: 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+    password: shadowsocks
+    port: 443
+    server: 109.201.152.181
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+    password: shadowsocks
+    port: 443
+    server: 149.34.244.68
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+    password: shadowsocks
+    port: 443
+    server: 149.34.244.77
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+    password: shadowsocks
+    port: 443
+    server: 149.34.244.82
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+    password: V6R0GVzCLaek7n7940mhqgacD9q6sIqzdRwvihztGHQ=
+    port: 32620
+    server: 167.172.43.252
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+    password: CLphyEMQT8nbG8EImX0A2D
+    port: 45635
+    server: 5.35.47.122
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+    password: uQS5ntVqC00sSKkeNzUiD3
+    port: 42090
+    server: 89.23.103.125
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+    password: KBGjZYcy4SyRShmA
+    port: 9044
+    server: 217.30.10.70
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+    password: d3837224ed465f00
+    port: 57456
+    server: war.ssvpnapp.win
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+    password: d3837224ed465f00
+    port: 57456
+    server: 45.144.48.63
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+    password: sBLOK9HeCl05ZHLZ6ezpA1
+    port: 33320
+    server: 77.83.246.74
+    type: ss
+  - cipher: rc4-md5
+    name: 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 128.199.172.224
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+    password: RYqeHYa0aQYW7i4TOhzyoT/NwwRhNRjhiobMOn4GNDo=
+    port: 53485
+    server: 128.199.237.29
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+    network: ws
+    port: 443
+    server: tls.94.node-for-bigairport.win
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: ef5fca10-41bc-4623-87a3-1170a7b51827
+    ws-opts:
+      headers:
+        Host: tls.94.node-for-bigairport.win
+      path: /
+  - cipher: aes-256-cfb
+    name: 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+    password: amazonskr05
+    port: 443
+    server: 18.141.187.153
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+    password: amazonskr05
+    port: 443
+    server: 18.141.231.184
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+    password: 4186370j1ebs50UqyHfXU
+    port: 8436
+    server: 217.197.160.225
+    type: ss
+  - cipher: rc4-md5
+    name: 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 68.183.227.236
+    type: ss
+  - cipher: rc4-md5
+    name: 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 68.183.227.4
+    type: ss
+  - cipher: rc4-md5
+    name: 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 68.183.227.45
+    type: ss
+  - cipher: rc4-md5
+    name: 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 68.183.235.122
+    type: ss
+  - cipher: rc4-md5
+    name: 🇺🇸US-107.155.57.51-0407 | 104.608MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 107.155.57.51
+    type: ss
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-107.167.30.126-0894 | 32.536MB
+    network: ws
+    port: 30000
+    server: 107.167.30.126
+    servername: 🇺🇸US-107.167.30.126-0894 | 32.536MB
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995
+    ws-opts:
+      headers:
+        Host: www.83645422.xyz
+      path: /
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-107.175.96.74-1300 | 36.921MB
+    password: Yc2CtrIz8L
+    port: 16899
+    server: 107.175.96.74
+    type: ss
+  - name: 🇺🇸US-142.202.48.220-0375 | 36.375MB
+    password: 0ab6c98dae3b48e8b9c4a776b6c9c19a
+    port: 443
+    server: sherasheba.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-142.202.48.220-0376 | 35.431MB
+    password: f0eb8c92ce8946aaba856569cff1a16b
+    port: 443
+    server: 142.202.48.220
+    skip-cert-verify: false
+    sni: sherasheba.com
+    type: trojan
+  - name: 🇺🇸US-152.70.115.209-1476 | 28.901MB
+    password: xjN4xcuPGg55
+    port: 45800
+    server: h.522226.xyz
+    skip-cert-verify: false
+    sni: h.522226.xyz
+    type: trojan
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-154.3.8.151-1306 | 100.215MB
+    password: iUB0923RBA
+    port: 30067
+    server: 154.3.8.151
+    type: ss
+  - name: 🇺🇸US-155.248.205.39-1307 | 33.111MB
+    password: xjN4xcuPGg
+    port: 45601
+    server: f.522226.xyz
+    skip-cert-verify: false
+    sni: f.522226.xyz
+    type: trojan
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-156.146.38.167-0386 | 67.828MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.38.167
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-156.146.38.168-0385 | 61.097MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.38.168
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-156.146.38.169-0384 | 68.027MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.38.169
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-156.146.38.170-0391 | 67.531MB
+    password: shadowsocks
+    port: 443
+    server: 156.146.38.170
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-173.244.56.6-0399 | 135.378MB
+    password: shadowsocks
+    port: 443
+    server: 173.244.56.6
+    type: ss
+  - cipher: aes-128-cfb
+    name: 🇺🇸US-184.170.241.194-0400 | 101.002MB
+    password: shadowsocks
+    port: 443
+    server: 184.170.241.194
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇺🇸US-194.116.173.21-1315 | 28.821MB
+    password: gYCYXfkUQEs2TaJQ
+    port: 9038
+    server: 194.116.173.21
+    type: ss
+  - cipher: rc4-md5
+    name: 🇺🇸US-194.5.215.59-0381 | 42.414MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 194.5.215.59
+    type: ss
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-199.180.103.21-5999 | 27.444MB
+    network: ws
+    port: 37007
+    server: 199.180.103.21
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    ws-opts:
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-205.134.180.137-0465 | 39.336MB
+    password: g13S7doXar0A
+    port: 443
+    server: 205.134.180.137
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-205.134.180.139-0445 | 37.416MB
+    password: lWaGPVFjmnag
+    port: 443
+    server: 205.134.180.139
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-205.134.180.147-0444 | 37.015MB
+    password: 9Bvkw5aupNy8
+    port: 443
+    server: 205.134.180.147
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-205.134.180.150-0308 | 40.814MB
+    password: 5cp9Z3iWnJZ2
+    port: 443
+    server: 205.134.180.150
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-205.134.180.151-0460 | 39.844MB
+    password: 5cp9Z3iWnJZ2
+    port: 443
+    server: 205.134.180.151
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-207.246.101.50-0437 | 193.56MB
+    password: o_A7inN1yqeWtOTL
+    port: 1633
+    server: 207.246.101.50
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-212.102.47.130-0403 | 123.006MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.47.130
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-212.102.47.131-0402 | 109.197MB
+    password: shadowsocks
+    port: 443
+    server: 212.102.47.131
+    type: ss
+  - name: 🇺🇸US-23.150.248.107-0387 | 53.377MB
+    password: dba20dcb635e430fa4d3bfc303a149d2
+    port: 443
+    server: 23.150.248.107
+    skip-cert-verify: false
+    sni: jobscareertoday.com
+    type: trojan
+  - name: 🇺🇸US-23.150.248.107-0390 | 51.673MB
+    password: dba20dcb635e430fa4d3bfc303a149d2
+    port: 443
+    server: jobscareertoday.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-23.150.248.107-1328 | 53.513MB
+    password: 242a3d8eee5e4ed1a6bfa4141d549a25
+    port: 443
+    server: jobscareertoday.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-23.150.248.50-0393 | 52.422MB
+    password: cb1f26aa437d4bfa9b841d28503ce8cc
+    port: 443
+    server: 23.150.248.50
+    skip-cert-verify: false
+    sni: jobscareerfortoday.com
+    type: trojan
+  - name: 🇺🇸US-23.150.248.50-0395 | 52.901MB
+    password: cb1f26aa437d4bfa9b841d28503ce8cc
+    port: 443
+    server: jobscareerfortoday.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-23.150.248.50-1331 | 53.047MB
+    password: 984e400bf5d541b7b0815913fe0c432a
+    port: 443
+    server: jobscareerfortoday.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-23.150.248.54-0382 | 51.975MB
+    password: f0eb8c92ce8946aaba856569cff1a16b
+    port: 443
+    server: jobscareerforlawyers.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-23.150.248.54-1333 | 53.389MB
+    password: 984e400bf5d541b7b0815913fe0c432a
+    port: 443
+    server: jobscareerforlawyers.com
+    skip-cert-verify: false
+    type: trojan
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸US-23.154.136.2-9004 | 33.381MB
+    network: ws
+    port: 443
+    server: 23.154.136.2
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - cipher: rc4-md5
+    name: 🇺🇸US-23.251.121.242-0406 | 119.205MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 23.251.121.242
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇺🇸US-34.222.136.128-6406 | 90.323MB
+    password: amazonskr05
+    port: 443
+    server: 34.222.136.128
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-37.19.198.160-0377 | 36.962MB
+    password: shadowsocks
+    port: 443
+    server: 37.19.198.160
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-37.19.198.236-0379 | 37.435MB
+    password: shadowsocks
+    port: 443
+    server: 37.19.198.236
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-37.19.198.243-0372 | 36.502MB
+    password: shadowsocks
+    port: 443
+    server: 37.19.198.243
+    type: ss
+  - cipher: aes-128-gcm
+    name: 🇺🇸US-37.19.198.244-0374 | 37.465MB
+    password: shadowsocks
+    port: 443
+    server: 37.19.198.244
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.110.1.111-0497 | 21.244MB
+    password: KixLvKzwjekG00rm
+    port: 8000
+    server: 38.110.1.111
+    type: ss
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-38.14.107.225-8968 | 97.719MB
+    network: ws
+    port: 38003
+    server: 38.14.107.225
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    ws-opts:
+      headers:
+        Host: www.23179753.xyz
+      path: /
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-38.14.107.226-6010 | 91.791MB
+    network: ws
+    port: 38003
+    server: 38.14.107.226
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    ws-opts:
+      path: /
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-38.14.107.228-9016 | 93.99MB
+    network: ws
+    port: 38003
+    server: 38.14.107.228
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    ws-opts:
+      headers:
+        Host: www.23179753.xyz
+      path: /
+  - alterId: 64
+    cipher: auto
+    name: 🇺🇸US-38.14.107.233-9024 | 69.854MB
+    network: ws
+    port: 38003
+    server: 38.14.107.233
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    ws-opts:
+      headers:
+        Host: www.23179753.xyz
+      path: /
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.75.136.49-0454 | 11.746MB
+    password: TEzjfAYq2IjtuoS
+    port: 6679
+    server: 38.75.136.49
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.75.136.49-0455 | 12.343MB
+    password: RexnBgU7EV5ADxG
+    port: 7002
+    server: 38.75.136.49
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.75.136.49-0456 | 10.132MB
+    password: faBAoD54k87UJG7
+    port: 2375
+    server: 38.75.136.49
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.75.136.49-0462 | 16.687MB
+    password: FoOiGlkAA9yPEGP
+    port: 7306
+    server: 38.75.136.49
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-38.75.136.49-0463 | 18.162MB
+    password: kDWvXYZoTBcGkC4
+    port: 8882
+    server: 38.75.136.49
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸US-38.91.106.227-8994 | 35.23MB
+    network: ws
+    port: 443
+    server: 38.91.106.227
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸US-38.99.82.203-6024 | 35.863MB
+    network: ws
+    port: 443
+    server: 38.99.82.203
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸US-38.99.82.203-8989 | 35.924MB
+    network: ws
+    port: 443
+    server: 38.99.82.203
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: 38.99.82.203
+      path: /
+  - name: 🇺🇸US-38.99.82.225-0471 | 28.643MB
+    password: 71409d3e488548e8bb076d229778f008
+    port: 443
+    server: jobsfortheworldtoday.com
+    skip-cert-verify: false
+    type: trojan
+  - name: 🇺🇸US-38.99.82.225-0721 | 37.428MB
+    password: 71409d3e488548e8bb076d229778f008
+    port: 443
+    server: 38.99.82.225
+    skip-cert-verify: false
+    sni: jobsfortheworldtoday.com
+    type: trojan
+  - name: 🇺🇸US-38.99.82.225-1482 | 29.496MB
+    password: 71409d3e488548e8bb076d229778f008
+    port: 443
+    server: jobsfortheworldtoday.com
+    skip-cert-verify: false
+    sni: jobsfortheworldtoday.com
+    type: trojan
+  - cipher: aes-256-cfb
+    name: 🇺🇸US-45.55.2.232-0412 | 43.539MB
+    password: 2170f8
+    port: 14293
+    server: 45.55.2.232
+    type: ss
+  - cipher: aes-256-gcm
+    name: 🇺🇸US-45.85.1.10-6409 | 26.883MB
+    password: 4186777b29AF85k0scXxv
+    port: 8535
+    server: 45.85.1.10
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇺🇸US-54.184.77.199-0453 | 83.845MB
+    password: amazonskr05
+    port: 443
+    server: 54.184.77.199
+    type: ss
+  - cipher: aes-256-cfb
+    name: 🇺🇸US-54.201.174.149-0882 | 90.854MB
+    password: amazonskr05
+    port: 443
+    server: 54.201.174.149
+    type: ss
+  - alterId: 0
+    cipher: auto
+    name: 🇺🇸US-69.50.93.90-9009 | 34.811MB
+    network: ws
+    port: 443
+    server: 69.50.93.90
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      path: /
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-74.50.98.185-0398 | 33.958MB
+    password: Mju3ZSaa4QVk45mc
+    port: 8080
+    server: 74.50.98.185
+    type: ss
+  - alterId: 32
+    cipher: auto
+    name: 🇺🇸US-77.83.141.171-0938 | 14.163MB
+    network: ws
+    port: 443
+    server: 77.83.141.171
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    uuid: 35379219-6535-4f2e-a4fe-3e44f61e0eee
+    ws-opts:
+      headers:
+        Host: vc.fly.dev
+      path: /
+  - cipher: rc4-md5
+    name: 🇺🇸US-79.110.53.169-0885 | 52.901MB
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 79.110.53.169
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: 🇺🇸US-92.118.112.111-1359 | 39.708MB
+    password: gmYDzSG6K35s8b19oY4fGz
+    port: 18622
+    server: 92.118.112.111
+    type: ss
+proxy-groups:
+  - interval: 300
+    name: 🚗自动切换
+    proxies:
+      - AE-40.172.90.63-1159 | 8.741MB
+      - AE-40.172.90.63-1160 | 8.693MB
+      - AT-95.164.9.144-5627 | 8.63MB
+      - BH-15.185.105.32-0524 | 9.174MB
+      - BR-168.138.142.53-1161 | 13.205MB
+      - BR-168.138.142.53-6290 | 13.229MB
+      - CH-156.146.62.161-0434 | 15.397MB
+      - CH-156.146.62.162-0438 | 15.465MB
+      - CH-156.146.62.163-0436 | 15.338MB
+      - CH-156.146.62.164-0435 | 14.945MB
+      - CZ-195.181.160.6-0442 | 15.066MB
+      - CZ-94.131.97.22-6521 | 15.03MB
+      - EE-147.45.60.33-0448 | 15.354MB
+      - HU-91.219.237.102-0452 | 15.232MB
+      - IE-13.79.98.64-0924 | 19.5MB
+      - IE-34.247.208.132-1396 | 19.341MB
+      - KE-62.12.116.66-0467 | 9.63MB
+      - KZ-213.156.137.67-0470 | 9.665MB
+      - LT-195.238.126.84-1172 | 14.867MB
+      - LT-45.87.175.157-1174 | 16.855MB
+      - LT-45.87.175.171-1483 | 16.931MB
+      - LT-45.87.175.171-1520 | 16.415MB
+      - LT-45.87.175.178-1175 | 16.875MB
+      - LT-45.87.175.181-1512 | 16.834MB
+      - LT-45.87.175.188-1176 | 16.478MB
+      - LT-45.87.175.192-1177 | 9.921MB
+      - LT-45.87.175.192-1516 | 16.348MB
+      - LT-45.87.175.199-0738 | 11.113MB
+      - MD-178.175.134.2-0457 | 13.014MB
+      - NO-51.13.115.105-1400 | 15.067MB
+      - NO-51.13.115.55-1180 | 15.407MB
+      - RELAY-104.17.197.31-9100 | 42.445MB
+      - RELAY-104.21.1.32-6008 | 93.045MB
+      - RELAY-172.67.133.78-0830 | 11.507MB
+      - RELAY-173.245.58.5-9109 | 39.927MB
+      - RELAY-185.135.9.153-0842 | 11.434MB
+      - RO-194.14.217.115-0450 | 14.264MB
+      - RS-194.71.126.31-0458 | 14.871MB
+      - SE-121.127.46.147-0447 | 15.031MB
+      - SE-46.246.98.155-0443 | 15.416MB
+      - SE-94.228.165.178-0495 | 13.276MB
+      - TR-45.89.52.66-0522 | 8.907MB
+      - TR-45.89.52.66-0541 | 8.434MB
+      - TR-45.89.52.66-0555 | 11.397MB
+      - TR-45.89.52.66-1201 | 9.521MB
+      - 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+      - 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+      - 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+      - 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+      - 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+      - 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+      - 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+      - 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+      - 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+      - 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+      - 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+      - 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+      - 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+      - 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+      - 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+      - 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+      - 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+      - 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+      - 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+      - 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+      - 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+      - 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+      - 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+      - 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+      - 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+      - 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+      - 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+      - 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+      - 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+      - 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+      - 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+      - 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+      - 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+      - 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+      - 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+      - 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+      - 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+      - 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+      - 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+      - 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+      - 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+      - 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+      - 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+      - 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+      - 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+      - 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+      - 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+      - 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+      - 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+      - 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+      - 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+      - 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+      - 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+      - 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+      - 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+      - 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+      - 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+      - 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+      - 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+      - 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+      - 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+      - 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+      - 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+      - 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+      - 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+      - 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+      - 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+      - 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+      - 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+      - 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+      - 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+      - 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+      - 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+      - 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+      - 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+      - 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+      - 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+      - 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+      - 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+      - 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+      - 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+      - 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+      - 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+      - 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+      - 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+      - 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+      - 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+      - 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+      - 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+      - 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+      - 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+      - 🇺🇸US-107.155.57.51-0407 | 104.608MB
+      - 🇺🇸US-107.167.30.126-0894 | 32.536MB
+      - 🇺🇸US-107.175.96.74-1300 | 36.921MB
+      - 🇺🇸US-142.202.48.220-0375 | 36.375MB
+      - 🇺🇸US-142.202.48.220-0376 | 35.431MB
+      - 🇺🇸US-152.70.115.209-1476 | 28.901MB
+      - 🇺🇸US-154.3.8.151-1306 | 100.215MB
+      - 🇺🇸US-155.248.205.39-1307 | 33.111MB
+      - 🇺🇸US-156.146.38.167-0386 | 67.828MB
+      - 🇺🇸US-156.146.38.168-0385 | 61.097MB
+      - 🇺🇸US-156.146.38.169-0384 | 68.027MB
+      - 🇺🇸US-156.146.38.170-0391 | 67.531MB
+      - 🇺🇸US-173.244.56.6-0399 | 135.378MB
+      - 🇺🇸US-184.170.241.194-0400 | 101.002MB
+      - 🇺🇸US-194.116.173.21-1315 | 28.821MB
+      - 🇺🇸US-194.5.215.59-0381 | 42.414MB
+      - 🇺🇸US-199.180.103.21-5999 | 27.444MB
+      - 🇺🇸US-205.134.180.137-0465 | 39.336MB
+      - 🇺🇸US-205.134.180.139-0445 | 37.416MB
+      - 🇺🇸US-205.134.180.147-0444 | 37.015MB
+      - 🇺🇸US-205.134.180.150-0308 | 40.814MB
+      - 🇺🇸US-205.134.180.151-0460 | 39.844MB
+      - 🇺🇸US-207.246.101.50-0437 | 193.56MB
+      - 🇺🇸US-212.102.47.130-0403 | 123.006MB
+      - 🇺🇸US-212.102.47.131-0402 | 109.197MB
+      - 🇺🇸US-23.150.248.107-0387 | 53.377MB
+      - 🇺🇸US-23.150.248.107-0390 | 51.673MB
+      - 🇺🇸US-23.150.248.107-1328 | 53.513MB
+      - 🇺🇸US-23.150.248.50-0393 | 52.422MB
+      - 🇺🇸US-23.150.248.50-0395 | 52.901MB
+      - 🇺🇸US-23.150.248.50-1331 | 53.047MB
+      - 🇺🇸US-23.150.248.54-0382 | 51.975MB
+      - 🇺🇸US-23.150.248.54-1333 | 53.389MB
+      - 🇺🇸US-23.154.136.2-9004 | 33.381MB
+      - 🇺🇸US-23.251.121.242-0406 | 119.205MB
+      - 🇺🇸US-34.222.136.128-6406 | 90.323MB
+      - 🇺🇸US-37.19.198.160-0377 | 36.962MB
+      - 🇺🇸US-37.19.198.236-0379 | 37.435MB
+      - 🇺🇸US-37.19.198.243-0372 | 36.502MB
+      - 🇺🇸US-37.19.198.244-0374 | 37.465MB
+      - 🇺🇸US-38.110.1.111-0497 | 21.244MB
+      - 🇺🇸US-38.14.107.225-8968 | 97.719MB
+      - 🇺🇸US-38.14.107.226-6010 | 91.791MB
+      - 🇺🇸US-38.14.107.228-9016 | 93.99MB
+      - 🇺🇸US-38.14.107.233-9024 | 69.854MB
+      - 🇺🇸US-38.75.136.49-0454 | 11.746MB
+      - 🇺🇸US-38.75.136.49-0455 | 12.343MB
+      - 🇺🇸US-38.75.136.49-0456 | 10.132MB
+      - 🇺🇸US-38.75.136.49-0462 | 16.687MB
+      - 🇺🇸US-38.75.136.49-0463 | 18.162MB
+      - 🇺🇸US-38.91.106.227-8994 | 35.23MB
+      - 🇺🇸US-38.99.82.203-6024 | 35.863MB
+      - 🇺🇸US-38.99.82.203-8989 | 35.924MB
+      - 🇺🇸US-38.99.82.225-0471 | 28.643MB
+      - 🇺🇸US-38.99.82.225-0721 | 37.428MB
+      - 🇺🇸US-38.99.82.225-1482 | 29.496MB
+      - 🇺🇸US-45.55.2.232-0412 | 43.539MB
+      - 🇺🇸US-45.85.1.10-6409 | 26.883MB
+      - 🇺🇸US-54.184.77.199-0453 | 83.845MB
+      - 🇺🇸US-54.201.174.149-0882 | 90.854MB
+      - 🇺🇸US-69.50.93.90-9009 | 34.811MB
+      - 🇺🇸US-74.50.98.185-0398 | 33.958MB
+      - 🇺🇸US-77.83.141.171-0938 | 14.163MB
+      - 🇺🇸US-79.110.53.169-0885 | 52.901MB
+      - 🇺🇸US-92.118.112.111-1359 | 39.708MB
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+  - name: 🔰国外流量
+    proxies:
+      - AE-40.172.90.63-1159 | 8.741MB
+      - AE-40.172.90.63-1160 | 8.693MB
+      - AT-95.164.9.144-5627 | 8.63MB
+      - BH-15.185.105.32-0524 | 9.174MB
+      - BR-168.138.142.53-1161 | 13.205MB
+      - BR-168.138.142.53-6290 | 13.229MB
+      - CH-156.146.62.161-0434 | 15.397MB
+      - CH-156.146.62.162-0438 | 15.465MB
+      - CH-156.146.62.163-0436 | 15.338MB
+      - CH-156.146.62.164-0435 | 14.945MB
+      - CZ-195.181.160.6-0442 | 15.066MB
+      - CZ-94.131.97.22-6521 | 15.03MB
+      - EE-147.45.60.33-0448 | 15.354MB
+      - HU-91.219.237.102-0452 | 15.232MB
+      - IE-13.79.98.64-0924 | 19.5MB
+      - IE-34.247.208.132-1396 | 19.341MB
+      - KE-62.12.116.66-0467 | 9.63MB
+      - KZ-213.156.137.67-0470 | 9.665MB
+      - LT-195.238.126.84-1172 | 14.867MB
+      - LT-45.87.175.157-1174 | 16.855MB
+      - LT-45.87.175.171-1483 | 16.931MB
+      - LT-45.87.175.171-1520 | 16.415MB
+      - LT-45.87.175.178-1175 | 16.875MB
+      - LT-45.87.175.181-1512 | 16.834MB
+      - LT-45.87.175.188-1176 | 16.478MB
+      - LT-45.87.175.192-1177 | 9.921MB
+      - LT-45.87.175.192-1516 | 16.348MB
+      - LT-45.87.175.199-0738 | 11.113MB
+      - MD-178.175.134.2-0457 | 13.014MB
+      - NO-51.13.115.105-1400 | 15.067MB
+      - NO-51.13.115.55-1180 | 15.407MB
+      - RELAY-104.17.197.31-9100 | 42.445MB
+      - RELAY-104.21.1.32-6008 | 93.045MB
+      - RELAY-172.67.133.78-0830 | 11.507MB
+      - RELAY-173.245.58.5-9109 | 39.927MB
+      - RELAY-185.135.9.153-0842 | 11.434MB
+      - RO-194.14.217.115-0450 | 14.264MB
+      - RS-194.71.126.31-0458 | 14.871MB
+      - SE-121.127.46.147-0447 | 15.031MB
+      - SE-46.246.98.155-0443 | 15.416MB
+      - SE-94.228.165.178-0495 | 13.276MB
+      - TR-45.89.52.66-0522 | 8.907MB
+      - TR-45.89.52.66-0541 | 8.434MB
+      - TR-45.89.52.66-0555 | 11.397MB
+      - TR-45.89.52.66-1201 | 9.521MB
+      - 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+      - 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+      - 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+      - 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+      - 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+      - 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+      - 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+      - 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+      - 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+      - 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+      - 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+      - 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+      - 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+      - 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+      - 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+      - 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+      - 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+      - 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+      - 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+      - 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+      - 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+      - 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+      - 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+      - 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+      - 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+      - 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+      - 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+      - 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+      - 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+      - 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+      - 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+      - 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+      - 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+      - 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+      - 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+      - 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+      - 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+      - 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+      - 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+      - 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+      - 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+      - 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+      - 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+      - 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+      - 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+      - 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+      - 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+      - 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+      - 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+      - 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+      - 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+      - 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+      - 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+      - 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+      - 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+      - 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+      - 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+      - 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+      - 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+      - 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+      - 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+      - 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+      - 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+      - 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+      - 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+      - 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+      - 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+      - 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+      - 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+      - 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+      - 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+      - 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+      - 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+      - 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+      - 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+      - 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+      - 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+      - 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+      - 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+      - 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+      - 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+      - 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+      - 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+      - 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+      - 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+      - 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+      - 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+      - 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+      - 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+      - 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+      - 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+      - 🇺🇸US-107.155.57.51-0407 | 104.608MB
+      - 🇺🇸US-107.167.30.126-0894 | 32.536MB
+      - 🇺🇸US-107.175.96.74-1300 | 36.921MB
+      - 🇺🇸US-142.202.48.220-0375 | 36.375MB
+      - 🇺🇸US-142.202.48.220-0376 | 35.431MB
+      - 🇺🇸US-152.70.115.209-1476 | 28.901MB
+      - 🇺🇸US-154.3.8.151-1306 | 100.215MB
+      - 🇺🇸US-155.248.205.39-1307 | 33.111MB
+      - 🇺🇸US-156.146.38.167-0386 | 67.828MB
+      - 🇺🇸US-156.146.38.168-0385 | 61.097MB
+      - 🇺🇸US-156.146.38.169-0384 | 68.027MB
+      - 🇺🇸US-156.146.38.170-0391 | 67.531MB
+      - 🇺🇸US-173.244.56.6-0399 | 135.378MB
+      - 🇺🇸US-184.170.241.194-0400 | 101.002MB
+      - 🇺🇸US-194.116.173.21-1315 | 28.821MB
+      - 🇺🇸US-194.5.215.59-0381 | 42.414MB
+      - 🇺🇸US-199.180.103.21-5999 | 27.444MB
+      - 🇺🇸US-205.134.180.137-0465 | 39.336MB
+      - 🇺🇸US-205.134.180.139-0445 | 37.416MB
+      - 🇺🇸US-205.134.180.147-0444 | 37.015MB
+      - 🇺🇸US-205.134.180.150-0308 | 40.814MB
+      - 🇺🇸US-205.134.180.151-0460 | 39.844MB
+      - 🇺🇸US-207.246.101.50-0437 | 193.56MB
+      - 🇺🇸US-212.102.47.130-0403 | 123.006MB
+      - 🇺🇸US-212.102.47.131-0402 | 109.197MB
+      - 🇺🇸US-23.150.248.107-0387 | 53.377MB
+      - 🇺🇸US-23.150.248.107-0390 | 51.673MB
+      - 🇺🇸US-23.150.248.107-1328 | 53.513MB
+      - 🇺🇸US-23.150.248.50-0393 | 52.422MB
+      - 🇺🇸US-23.150.248.50-0395 | 52.901MB
+      - 🇺🇸US-23.150.248.50-1331 | 53.047MB
+      - 🇺🇸US-23.150.248.54-0382 | 51.975MB
+      - 🇺🇸US-23.150.248.54-1333 | 53.389MB
+      - 🇺🇸US-23.154.136.2-9004 | 33.381MB
+      - 🇺🇸US-23.251.121.242-0406 | 119.205MB
+      - 🇺🇸US-34.222.136.128-6406 | 90.323MB
+      - 🇺🇸US-37.19.198.160-0377 | 36.962MB
+      - 🇺🇸US-37.19.198.236-0379 | 37.435MB
+      - 🇺🇸US-37.19.198.243-0372 | 36.502MB
+      - 🇺🇸US-37.19.198.244-0374 | 37.465MB
+      - 🇺🇸US-38.110.1.111-0497 | 21.244MB
+      - 🇺🇸US-38.14.107.225-8968 | 97.719MB
+      - 🇺🇸US-38.14.107.226-6010 | 91.791MB
+      - 🇺🇸US-38.14.107.228-9016 | 93.99MB
+      - 🇺🇸US-38.14.107.233-9024 | 69.854MB
+      - 🇺🇸US-38.75.136.49-0454 | 11.746MB
+      - 🇺🇸US-38.75.136.49-0455 | 12.343MB
+      - 🇺🇸US-38.75.136.49-0456 | 10.132MB
+      - 🇺🇸US-38.75.136.49-0462 | 16.687MB
+      - 🇺🇸US-38.75.136.49-0463 | 18.162MB
+      - 🇺🇸US-38.91.106.227-8994 | 35.23MB
+      - 🇺🇸US-38.99.82.203-6024 | 35.863MB
+      - 🇺🇸US-38.99.82.203-8989 | 35.924MB
+      - 🇺🇸US-38.99.82.225-0471 | 28.643MB
+      - 🇺🇸US-38.99.82.225-0721 | 37.428MB
+      - 🇺🇸US-38.99.82.225-1482 | 29.496MB
+      - 🇺🇸US-45.55.2.232-0412 | 43.539MB
+      - 🇺🇸US-45.85.1.10-6409 | 26.883MB
+      - 🇺🇸US-54.184.77.199-0453 | 83.845MB
+      - 🇺🇸US-54.201.174.149-0882 | 90.854MB
+      - 🇺🇸US-69.50.93.90-9009 | 34.811MB
+      - 🇺🇸US-74.50.98.185-0398 | 33.958MB
+      - 🇺🇸US-77.83.141.171-0938 | 14.163MB
+      - 🇺🇸US-79.110.53.169-0885 | 52.901MB
+      - 🇺🇸US-92.118.112.111-1359 | 39.708MB
+      - 🚗自动切换
+      - 🚀直接连接
+    type: select
+  - name: ⚓️其他流量
+    proxies:
+      - 🔰国外流量
+      - 🚀直接连接
+    type: select
+  - name: ✈️Telegram
+    proxies:
+      - 🔰国外流量
+      - AE-40.172.90.63-1159 | 8.741MB
+      - AE-40.172.90.63-1160 | 8.693MB
+      - AT-95.164.9.144-5627 | 8.63MB
+      - BH-15.185.105.32-0524 | 9.174MB
+      - BR-168.138.142.53-1161 | 13.205MB
+      - BR-168.138.142.53-6290 | 13.229MB
+      - CH-156.146.62.161-0434 | 15.397MB
+      - CH-156.146.62.162-0438 | 15.465MB
+      - CH-156.146.62.163-0436 | 15.338MB
+      - CH-156.146.62.164-0435 | 14.945MB
+      - CZ-195.181.160.6-0442 | 15.066MB
+      - CZ-94.131.97.22-6521 | 15.03MB
+      - EE-147.45.60.33-0448 | 15.354MB
+      - HU-91.219.237.102-0452 | 15.232MB
+      - IE-13.79.98.64-0924 | 19.5MB
+      - IE-34.247.208.132-1396 | 19.341MB
+      - KE-62.12.116.66-0467 | 9.63MB
+      - KZ-213.156.137.67-0470 | 9.665MB
+      - LT-195.238.126.84-1172 | 14.867MB
+      - LT-45.87.175.157-1174 | 16.855MB
+      - LT-45.87.175.171-1483 | 16.931MB
+      - LT-45.87.175.171-1520 | 16.415MB
+      - LT-45.87.175.178-1175 | 16.875MB
+      - LT-45.87.175.181-1512 | 16.834MB
+      - LT-45.87.175.188-1176 | 16.478MB
+      - LT-45.87.175.192-1177 | 9.921MB
+      - LT-45.87.175.192-1516 | 16.348MB
+      - LT-45.87.175.199-0738 | 11.113MB
+      - MD-178.175.134.2-0457 | 13.014MB
+      - NO-51.13.115.105-1400 | 15.067MB
+      - NO-51.13.115.55-1180 | 15.407MB
+      - RELAY-104.17.197.31-9100 | 42.445MB
+      - RELAY-104.21.1.32-6008 | 93.045MB
+      - RELAY-172.67.133.78-0830 | 11.507MB
+      - RELAY-173.245.58.5-9109 | 39.927MB
+      - RELAY-185.135.9.153-0842 | 11.434MB
+      - RO-194.14.217.115-0450 | 14.264MB
+      - RS-194.71.126.31-0458 | 14.871MB
+      - SE-121.127.46.147-0447 | 15.031MB
+      - SE-46.246.98.155-0443 | 15.416MB
+      - SE-94.228.165.178-0495 | 13.276MB
+      - TR-45.89.52.66-0522 | 8.907MB
+      - TR-45.89.52.66-0541 | 8.434MB
+      - TR-45.89.52.66-0555 | 11.397MB
+      - TR-45.89.52.66-1201 | 9.521MB
+      - 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+      - 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+      - 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+      - 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+      - 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+      - 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+      - 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+      - 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+      - 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+      - 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+      - 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+      - 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+      - 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+      - 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+      - 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+      - 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+      - 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+      - 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+      - 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+      - 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+      - 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+      - 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+      - 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+      - 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+      - 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+      - 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+      - 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+      - 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+      - 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+      - 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+      - 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+      - 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+      - 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+      - 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+      - 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+      - 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+      - 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+      - 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+      - 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+      - 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+      - 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+      - 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+      - 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+      - 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+      - 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+      - 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+      - 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+      - 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+      - 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+      - 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+      - 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+      - 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+      - 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+      - 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+      - 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+      - 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+      - 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+      - 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+      - 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+      - 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+      - 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+      - 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+      - 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+      - 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+      - 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+      - 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+      - 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+      - 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+      - 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+      - 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+      - 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+      - 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+      - 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+      - 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+      - 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+      - 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+      - 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+      - 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+      - 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+      - 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+      - 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+      - 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+      - 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+      - 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+      - 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+      - 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+      - 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+      - 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+      - 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+      - 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+      - 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+      - 🇺🇸US-107.155.57.51-0407 | 104.608MB
+      - 🇺🇸US-107.167.30.126-0894 | 32.536MB
+      - 🇺🇸US-107.175.96.74-1300 | 36.921MB
+      - 🇺🇸US-142.202.48.220-0375 | 36.375MB
+      - 🇺🇸US-142.202.48.220-0376 | 35.431MB
+      - 🇺🇸US-152.70.115.209-1476 | 28.901MB
+      - 🇺🇸US-154.3.8.151-1306 | 100.215MB
+      - 🇺🇸US-155.248.205.39-1307 | 33.111MB
+      - 🇺🇸US-156.146.38.167-0386 | 67.828MB
+      - 🇺🇸US-156.146.38.168-0385 | 61.097MB
+      - 🇺🇸US-156.146.38.169-0384 | 68.027MB
+      - 🇺🇸US-156.146.38.170-0391 | 67.531MB
+      - 🇺🇸US-173.244.56.6-0399 | 135.378MB
+      - 🇺🇸US-184.170.241.194-0400 | 101.002MB
+      - 🇺🇸US-194.116.173.21-1315 | 28.821MB
+      - 🇺🇸US-194.5.215.59-0381 | 42.414MB
+      - 🇺🇸US-199.180.103.21-5999 | 27.444MB
+      - 🇺🇸US-205.134.180.137-0465 | 39.336MB
+      - 🇺🇸US-205.134.180.139-0445 | 37.416MB
+      - 🇺🇸US-205.134.180.147-0444 | 37.015MB
+      - 🇺🇸US-205.134.180.150-0308 | 40.814MB
+      - 🇺🇸US-205.134.180.151-0460 | 39.844MB
+      - 🇺🇸US-207.246.101.50-0437 | 193.56MB
+      - 🇺🇸US-212.102.47.130-0403 | 123.006MB
+      - 🇺🇸US-212.102.47.131-0402 | 109.197MB
+      - 🇺🇸US-23.150.248.107-0387 | 53.377MB
+      - 🇺🇸US-23.150.248.107-0390 | 51.673MB
+      - 🇺🇸US-23.150.248.107-1328 | 53.513MB
+      - 🇺🇸US-23.150.248.50-0393 | 52.422MB
+      - 🇺🇸US-23.150.248.50-0395 | 52.901MB
+      - 🇺🇸US-23.150.248.50-1331 | 53.047MB
+      - 🇺🇸US-23.150.248.54-0382 | 51.975MB
+      - 🇺🇸US-23.150.248.54-1333 | 53.389MB
+      - 🇺🇸US-23.154.136.2-9004 | 33.381MB
+      - 🇺🇸US-23.251.121.242-0406 | 119.205MB
+      - 🇺🇸US-34.222.136.128-6406 | 90.323MB
+      - 🇺🇸US-37.19.198.160-0377 | 36.962MB
+      - 🇺🇸US-37.19.198.236-0379 | 37.435MB
+      - 🇺🇸US-37.19.198.243-0372 | 36.502MB
+      - 🇺🇸US-37.19.198.244-0374 | 37.465MB
+      - 🇺🇸US-38.110.1.111-0497 | 21.244MB
+      - 🇺🇸US-38.14.107.225-8968 | 97.719MB
+      - 🇺🇸US-38.14.107.226-6010 | 91.791MB
+      - 🇺🇸US-38.14.107.228-9016 | 93.99MB
+      - 🇺🇸US-38.14.107.233-9024 | 69.854MB
+      - 🇺🇸US-38.75.136.49-0454 | 11.746MB
+      - 🇺🇸US-38.75.136.49-0455 | 12.343MB
+      - 🇺🇸US-38.75.136.49-0456 | 10.132MB
+      - 🇺🇸US-38.75.136.49-0462 | 16.687MB
+      - 🇺🇸US-38.75.136.49-0463 | 18.162MB
+      - 🇺🇸US-38.91.106.227-8994 | 35.23MB
+      - 🇺🇸US-38.99.82.203-6024 | 35.863MB
+      - 🇺🇸US-38.99.82.203-8989 | 35.924MB
+      - 🇺🇸US-38.99.82.225-0471 | 28.643MB
+      - 🇺🇸US-38.99.82.225-0721 | 37.428MB
+      - 🇺🇸US-38.99.82.225-1482 | 29.496MB
+      - 🇺🇸US-45.55.2.232-0412 | 43.539MB
+      - 🇺🇸US-45.85.1.10-6409 | 26.883MB
+      - 🇺🇸US-54.184.77.199-0453 | 83.845MB
+      - 🇺🇸US-54.201.174.149-0882 | 90.854MB
+      - 🇺🇸US-69.50.93.90-9009 | 34.811MB
+      - 🇺🇸US-74.50.98.185-0398 | 33.958MB
+      - 🇺🇸US-77.83.141.171-0938 | 14.163MB
+      - 🇺🇸US-79.110.53.169-0885 | 52.901MB
+      - 🇺🇸US-92.118.112.111-1359 | 39.708MB
+    type: select
+  - name: 🎬Youtube
+    proxies:
+      - 🔰国外流量
+      - AE-40.172.90.63-1159 | 8.741MB
+      - AE-40.172.90.63-1160 | 8.693MB
+      - AT-95.164.9.144-5627 | 8.63MB
+      - BH-15.185.105.32-0524 | 9.174MB
+      - BR-168.138.142.53-1161 | 13.205MB
+      - BR-168.138.142.53-6290 | 13.229MB
+      - CH-156.146.62.161-0434 | 15.397MB
+      - CH-156.146.62.162-0438 | 15.465MB
+      - CH-156.146.62.163-0436 | 15.338MB
+      - CH-156.146.62.164-0435 | 14.945MB
+      - CZ-195.181.160.6-0442 | 15.066MB
+      - CZ-94.131.97.22-6521 | 15.03MB
+      - EE-147.45.60.33-0448 | 15.354MB
+      - HU-91.219.237.102-0452 | 15.232MB
+      - IE-13.79.98.64-0924 | 19.5MB
+      - IE-34.247.208.132-1396 | 19.341MB
+      - KE-62.12.116.66-0467 | 9.63MB
+      - KZ-213.156.137.67-0470 | 9.665MB
+      - LT-195.238.126.84-1172 | 14.867MB
+      - LT-45.87.175.157-1174 | 16.855MB
+      - LT-45.87.175.171-1483 | 16.931MB
+      - LT-45.87.175.171-1520 | 16.415MB
+      - LT-45.87.175.178-1175 | 16.875MB
+      - LT-45.87.175.181-1512 | 16.834MB
+      - LT-45.87.175.188-1176 | 16.478MB
+      - LT-45.87.175.192-1177 | 9.921MB
+      - LT-45.87.175.192-1516 | 16.348MB
+      - LT-45.87.175.199-0738 | 11.113MB
+      - MD-178.175.134.2-0457 | 13.014MB
+      - NO-51.13.115.105-1400 | 15.067MB
+      - NO-51.13.115.55-1180 | 15.407MB
+      - RELAY-104.17.197.31-9100 | 42.445MB
+      - RELAY-104.21.1.32-6008 | 93.045MB
+      - RELAY-172.67.133.78-0830 | 11.507MB
+      - RELAY-173.245.58.5-9109 | 39.927MB
+      - RELAY-185.135.9.153-0842 | 11.434MB
+      - RO-194.14.217.115-0450 | 14.264MB
+      - RS-194.71.126.31-0458 | 14.871MB
+      - SE-121.127.46.147-0447 | 15.031MB
+      - SE-46.246.98.155-0443 | 15.416MB
+      - SE-94.228.165.178-0495 | 13.276MB
+      - TR-45.89.52.66-0522 | 8.907MB
+      - TR-45.89.52.66-0541 | 8.434MB
+      - TR-45.89.52.66-0555 | 11.397MB
+      - TR-45.89.52.66-1201 | 9.521MB
+      - 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+      - 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+      - 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+      - 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+      - 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+      - 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+      - 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+      - 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+      - 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+      - 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+      - 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+      - 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+      - 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+      - 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+      - 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+      - 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+      - 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+      - 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+      - 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+      - 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+      - 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+      - 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+      - 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+      - 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+      - 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+      - 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+      - 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+      - 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+      - 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+      - 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+      - 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+      - 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+      - 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+      - 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+      - 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+      - 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+      - 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+      - 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+      - 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+      - 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+      - 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+      - 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+      - 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+      - 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+      - 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+      - 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+      - 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+      - 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+      - 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+      - 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+      - 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+      - 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+      - 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+      - 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+      - 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+      - 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+      - 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+      - 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+      - 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+      - 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+      - 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+      - 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+      - 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+      - 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+      - 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+      - 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+      - 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+      - 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+      - 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+      - 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+      - 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+      - 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+      - 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+      - 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+      - 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+      - 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+      - 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+      - 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+      - 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+      - 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+      - 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+      - 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+      - 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+      - 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+      - 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+      - 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+      - 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+      - 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+      - 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+      - 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+      - 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+      - 🇺🇸US-107.155.57.51-0407 | 104.608MB
+      - 🇺🇸US-107.167.30.126-0894 | 32.536MB
+      - 🇺🇸US-107.175.96.74-1300 | 36.921MB
+      - 🇺🇸US-142.202.48.220-0375 | 36.375MB
+      - 🇺🇸US-142.202.48.220-0376 | 35.431MB
+      - 🇺🇸US-152.70.115.209-1476 | 28.901MB
+      - 🇺🇸US-154.3.8.151-1306 | 100.215MB
+      - 🇺🇸US-155.248.205.39-1307 | 33.111MB
+      - 🇺🇸US-156.146.38.167-0386 | 67.828MB
+      - 🇺🇸US-156.146.38.168-0385 | 61.097MB
+      - 🇺🇸US-156.146.38.169-0384 | 68.027MB
+      - 🇺🇸US-156.146.38.170-0391 | 67.531MB
+      - 🇺🇸US-173.244.56.6-0399 | 135.378MB
+      - 🇺🇸US-184.170.241.194-0400 | 101.002MB
+      - 🇺🇸US-194.116.173.21-1315 | 28.821MB
+      - 🇺🇸US-194.5.215.59-0381 | 42.414MB
+      - 🇺🇸US-199.180.103.21-5999 | 27.444MB
+      - 🇺🇸US-205.134.180.137-0465 | 39.336MB
+      - 🇺🇸US-205.134.180.139-0445 | 37.416MB
+      - 🇺🇸US-205.134.180.147-0444 | 37.015MB
+      - 🇺🇸US-205.134.180.150-0308 | 40.814MB
+      - 🇺🇸US-205.134.180.151-0460 | 39.844MB
+      - 🇺🇸US-207.246.101.50-0437 | 193.56MB
+      - 🇺🇸US-212.102.47.130-0403 | 123.006MB
+      - 🇺🇸US-212.102.47.131-0402 | 109.197MB
+      - 🇺🇸US-23.150.248.107-0387 | 53.377MB
+      - 🇺🇸US-23.150.248.107-0390 | 51.673MB
+      - 🇺🇸US-23.150.248.107-1328 | 53.513MB
+      - 🇺🇸US-23.150.248.50-0393 | 52.422MB
+      - 🇺🇸US-23.150.248.50-0395 | 52.901MB
+      - 🇺🇸US-23.150.248.50-1331 | 53.047MB
+      - 🇺🇸US-23.150.248.54-0382 | 51.975MB
+      - 🇺🇸US-23.150.248.54-1333 | 53.389MB
+      - 🇺🇸US-23.154.136.2-9004 | 33.381MB
+      - 🇺🇸US-23.251.121.242-0406 | 119.205MB
+      - 🇺🇸US-34.222.136.128-6406 | 90.323MB
+      - 🇺🇸US-37.19.198.160-0377 | 36.962MB
+      - 🇺🇸US-37.19.198.236-0379 | 37.435MB
+      - 🇺🇸US-37.19.198.243-0372 | 36.502MB
+      - 🇺🇸US-37.19.198.244-0374 | 37.465MB
+      - 🇺🇸US-38.110.1.111-0497 | 21.244MB
+      - 🇺🇸US-38.14.107.225-8968 | 97.719MB
+      - 🇺🇸US-38.14.107.226-6010 | 91.791MB
+      - 🇺🇸US-38.14.107.228-9016 | 93.99MB
+      - 🇺🇸US-38.14.107.233-9024 | 69.854MB
+      - 🇺🇸US-38.75.136.49-0454 | 11.746MB
+      - 🇺🇸US-38.75.136.49-0455 | 12.343MB
+      - 🇺🇸US-38.75.136.49-0456 | 10.132MB
+      - 🇺🇸US-38.75.136.49-0462 | 16.687MB
+      - 🇺🇸US-38.75.136.49-0463 | 18.162MB
+      - 🇺🇸US-38.91.106.227-8994 | 35.23MB
+      - 🇺🇸US-38.99.82.203-6024 | 35.863MB
+      - 🇺🇸US-38.99.82.203-8989 | 35.924MB
+      - 🇺🇸US-38.99.82.225-0471 | 28.643MB
+      - 🇺🇸US-38.99.82.225-0721 | 37.428MB
+      - 🇺🇸US-38.99.82.225-1482 | 29.496MB
+      - 🇺🇸US-45.55.2.232-0412 | 43.539MB
+      - 🇺🇸US-45.85.1.10-6409 | 26.883MB
+      - 🇺🇸US-54.184.77.199-0453 | 83.845MB
+      - 🇺🇸US-54.201.174.149-0882 | 90.854MB
+      - 🇺🇸US-69.50.93.90-9009 | 34.811MB
+      - 🇺🇸US-74.50.98.185-0398 | 33.958MB
+      - 🇺🇸US-77.83.141.171-0938 | 14.163MB
+      - 🇺🇸US-79.110.53.169-0885 | 52.901MB
+      - 🇺🇸US-92.118.112.111-1359 | 39.708MB
+    type: select
+  - name: 🎬Netflix
+    proxies:
+      - 🔰国外流量
+    type: select
+  - name: 🎬哔哩哔哩
+    proxies:
+      - 🚀直接连接
+      - AE-40.172.90.63-1159 | 8.741MB
+      - AE-40.172.90.63-1160 | 8.693MB
+      - AT-95.164.9.144-5627 | 8.63MB
+      - BH-15.185.105.32-0524 | 9.174MB
+      - BR-168.138.142.53-1161 | 13.205MB
+      - BR-168.138.142.53-6290 | 13.229MB
+      - CH-156.146.62.161-0434 | 15.397MB
+      - CH-156.146.62.162-0438 | 15.465MB
+      - CH-156.146.62.163-0436 | 15.338MB
+      - CH-156.146.62.164-0435 | 14.945MB
+      - CZ-195.181.160.6-0442 | 15.066MB
+      - CZ-94.131.97.22-6521 | 15.03MB
+      - EE-147.45.60.33-0448 | 15.354MB
+      - HU-91.219.237.102-0452 | 15.232MB
+      - IE-13.79.98.64-0924 | 19.5MB
+      - IE-34.247.208.132-1396 | 19.341MB
+      - KE-62.12.116.66-0467 | 9.63MB
+      - KZ-213.156.137.67-0470 | 9.665MB
+      - LT-195.238.126.84-1172 | 14.867MB
+      - LT-45.87.175.157-1174 | 16.855MB
+      - LT-45.87.175.171-1483 | 16.931MB
+      - LT-45.87.175.171-1520 | 16.415MB
+      - LT-45.87.175.178-1175 | 16.875MB
+      - LT-45.87.175.181-1512 | 16.834MB
+      - LT-45.87.175.188-1176 | 16.478MB
+      - LT-45.87.175.192-1177 | 9.921MB
+      - LT-45.87.175.192-1516 | 16.348MB
+      - LT-45.87.175.199-0738 | 11.113MB
+      - MD-178.175.134.2-0457 | 13.014MB
+      - NO-51.13.115.105-1400 | 15.067MB
+      - NO-51.13.115.55-1180 | 15.407MB
+      - RELAY-104.17.197.31-9100 | 42.445MB
+      - RELAY-104.21.1.32-6008 | 93.045MB
+      - RELAY-172.67.133.78-0830 | 11.507MB
+      - RELAY-173.245.58.5-9109 | 39.927MB
+      - RELAY-185.135.9.153-0842 | 11.434MB
+      - RO-194.14.217.115-0450 | 14.264MB
+      - RS-194.71.126.31-0458 | 14.871MB
+      - SE-121.127.46.147-0447 | 15.031MB
+      - SE-46.246.98.155-0443 | 15.416MB
+      - SE-94.228.165.178-0495 | 13.276MB
+      - TR-45.89.52.66-0522 | 8.907MB
+      - TR-45.89.52.66-0541 | 8.434MB
+      - TR-45.89.52.66-0555 | 11.397MB
+      - TR-45.89.52.66-1201 | 9.521MB
+      - 🇦🇺AU-172.105.172.209-9025 | 16.217MB
+      - 🇨🇦CA-134.195.196.138-0388 | 34.89MB
+      - 🇨🇦CA-134.195.198.147-9010 | 35.997MB
+      - 🇨🇦CA-142.4.216.225-0530 | 11.415MB
+      - 🇨🇦CA-149.22.95.183-0405 | 104.56MB
+      - 🇨🇦CA-172.105.13.246-8970 | 36.88MB
+      - 🇨🇦CA-23.162.200.227-8981 | 40.879MB
+      - 🇨🇦CA-23.162.200.94-9032 | 41.718MB
+      - 🇨🇦CA-99.79.182.60-0928 | 31.616MB
+      - 🇩🇪DE-130.61.156.132-0431 | 15.485MB
+      - 🇩🇪DE-150.241.101.222-0459 | 15.604MB
+      - 🇩🇪DE-150.241.95.63-1212 | 14.455MB
+      - 🇩🇪DE-150.241.95.63-1213 | 14.481MB
+      - 🇩🇪DE-18.193.12.24-6470 | 16.281MB
+      - 🇩🇪DE-193.108.119.230-0461 | 16.729MB
+      - 🇩🇪DE-45.150.32.116-6473 | 15.941MB
+      - 🇩🇪DE-57.129.24.125-9015 | 15.978MB
+      - 🇩🇪DE-57.129.24.141-5753 | 16.483MB
+      - 🇪🇸ES-194.87.45.189-1223 | 14.215MB
+      - 🇪🇸ES-5.188.181.201-5776 | 9.13MB
+      - 🇫🇷FR-146.19.168.161-5782 | 15.239MB
+      - 🇫🇷FR-146.19.168.161-9023 | 15.173MB
+      - 🇫🇷FR-194.9.172.65-6472 | 15.181MB
+      - 🇫🇷FR-195.154.169.198-0428 | 17.111MB
+      - 🇫🇷FR-195.154.185.174-0427 | 17.065MB
+      - 🇫🇷FR-35.180.76.113-0934 | 17.209MB
+      - 🇫🇷FR-51.15.27.48-0420 | 17.658MB
+      - 🇫🇷FR-51.158.244.38-0491 | 17.064MB
+      - 🇫🇷FR-51.159.111.208-0426 | 16.894MB
+      - 🇫🇷FR-51.77.20.137-8998 | 16.644MB
+      - 🇬🇧GB-109.120.186.9-1236 | 15.378MB
+      - 🇬🇧GB-141.98.101.178-0489 | 16.674MB
+      - 🇬🇧GB-141.98.101.179-0508 | 16.733MB
+      - 🇬🇧GB-141.98.101.180-0502 | 16.821MB
+      - 🇬🇧GB-141.98.101.182-0510 | 16.733MB
+      - 🇬🇧GB-146.70.61.18-0425 | 17.289MB
+      - 🇬🇧GB-149.7.16.174-6026 | 18.623MB
+      - 🇬🇧GB-149.7.16.188-5994 | 18.536MB
+      - 🇬🇧GB-149.7.16.194-6021 | 18.495MB
+      - 🇬🇧GB-149.7.16.73-6031 | 18.469MB
+      - 🇬🇧GB-169.150.210.233-0430 | 16.095MB
+      - 🇬🇧GB-172.99.190.180-0410 | 19.277MB
+      - 🇬🇧GB-172.99.190.180-0413 | 19.3MB
+      - 🇬🇧GB-172.99.190.180-1248 | 19.421MB
+      - 🇬🇧GB-172.99.190.180-2382 | 19.446MB
+      - 🇬🇧GB-172.99.190.206-6023 | 18.569MB
+      - 🇬🇧GB-172.99.190.50-6032 | 18.689MB
+      - 🇬🇧GB-18.175.2.75-6312 | 17.898MB
+      - 🇬🇧GB-212.102.53.193-0866 | 18.504MB
+      - 🇬🇧GB-212.102.53.194-0189 | 18.372MB
+      - 🇬🇧GB-212.102.53.195-1253 | 18.238MB
+      - 🇬🇧GB-212.102.53.196-1254 | 18.286MB
+      - 🇬🇧GB-212.102.53.197-1255 | 18.076MB
+      - 🇬🇧GB-212.102.53.197-1256 | 18.242MB
+      - 🇬🇧GB-212.102.53.198-1257 | 18.388MB
+      - 🇬🇧GB-212.102.53.78-1258 | 18.37MB
+      - 🇬🇧GB-212.102.53.79-1259 | 18.118MB
+      - 🇬🇧GB-212.102.53.80-1260 | 18.516MB
+      - 🇬🇧GB-212.102.53.81-1261 | 18.399MB
+      - 🇬🇧GB-35.179.252.186-0414 | 16.958MB
+      - 🇬🇧GB-35.179.252.186-0417 | 16.248MB
+      - 🇬🇧GB-35.179.252.186-0419 | 17.021MB
+      - 🇬🇧GB-77.72.5.113-0499 | 18.16MB
+      - 🇬🇧GB-89.185.84.185-1267 | 18.716MB
+      - 🇭🇰HK-141.98.234.93-0511 | 16.737MB
+      - 🇮🇳IN-159.65.149.72-0474 | 9.585MB
+      - 🇯🇵JP-13.230.239.136-0464 | 23.193MB
+      - 🇯🇵JP-18.179.197.216-2344 | 8.845MB
+      - 🇰🇷KR-144.24.88.133-6744 | 19.973MB
+      - 🇰🇷KR-43.203.141.93-0537 | 19.887MB
+      - 🇳🇱NL-109.201.152.181-0423 | 17.249MB
+      - 🇳🇱NL-149.34.244.68-0424 | 16.86MB
+      - 🇳🇱NL-149.34.244.77-0532 | 16.397MB
+      - 🇳🇱NL-149.34.244.82-0535 | 16.833MB
+      - 🇳🇱NL-167.172.43.252-6335 | 16.991MB
+      - 🇳🇱NL-5.35.47.122-0432 | 15.891MB
+      - 🇳🇱NL-89.23.103.125-1283 | 14.613MB
+      - 🇵🇱PL-217.30.10.70-6513 | 15.644MB
+      - 🇵🇱PL-45.144.48.63-0542 | 14.843MB
+      - 🇵🇱PL-45.144.48.63-1284 | 14.856MB
+      - 🇵🇱PL-77.83.246.74-1286 | 14.011MB
+      - 🇸🇬SG-128.199.172.224-0478 | 15.409MB
+      - 🇸🇬SG-128.199.237.29-0927 | 15.25MB
+      - 🇸🇬SG-152.42.245.73-0937 | 15.612MB
+      - 🇸🇬SG-18.141.187.153-6368 | 14.98MB
+      - 🇸🇬SG-18.141.231.184-1290 | 15.015MB
+      - 🇸🇬SG-217.197.160.225-0483 | 14.911MB
+      - 🇸🇬SG-68.183.227.236-0480 | 15.226MB
+      - 🇸🇬SG-68.183.227.4-0476 | 14.854MB
+      - 🇸🇬SG-68.183.227.45-0479 | 14.991MB
+      - 🇸🇬SG-68.183.235.122-0477 | 15.139MB
+      - 🇺🇸US-107.155.57.51-0407 | 104.608MB
+      - 🇺🇸US-107.167.30.126-0894 | 32.536MB
+      - 🇺🇸US-107.175.96.74-1300 | 36.921MB
+      - 🇺🇸US-142.202.48.220-0375 | 36.375MB
+      - 🇺🇸US-142.202.48.220-0376 | 35.431MB
+      - 🇺🇸US-152.70.115.209-1476 | 28.901MB
+      - 🇺🇸US-154.3.8.151-1306 | 100.215MB
+      - 🇺🇸US-155.248.205.39-1307 | 33.111MB
+      - 🇺🇸US-156.146.38.167-0386 | 67.828MB
+      - 🇺🇸US-156.146.38.168-0385 | 61.097MB
+      - 🇺🇸US-156.146.38.169-0384 | 68.027MB
+      - 🇺🇸US-156.146.38.170-0391 | 67.531MB
+      - 🇺🇸US-173.244.56.6-0399 | 135.378MB
+      - 🇺🇸US-184.170.241.194-0400 | 101.002MB
+      - 🇺🇸US-194.116.173.21-1315 | 28.821MB
+      - 🇺🇸US-194.5.215.59-0381 | 42.414MB
+      - 🇺🇸US-199.180.103.21-5999 | 27.444MB
+      - 🇺🇸US-205.134.180.137-0465 | 39.336MB
+      - 🇺🇸US-205.134.180.139-0445 | 37.416MB
+      - 🇺🇸US-205.134.180.147-0444 | 37.015MB
+      - 🇺🇸US-205.134.180.150-0308 | 40.814MB
+      - 🇺🇸US-205.134.180.151-0460 | 39.844MB
+      - 🇺🇸US-207.246.101.50-0437 | 193.56MB
+      - 🇺🇸US-212.102.47.130-0403 | 123.006MB
+      - 🇺🇸US-212.102.47.131-0402 | 109.197MB
+      - 🇺🇸US-23.150.248.107-0387 | 53.377MB
+      - 🇺🇸US-23.150.248.107-0390 | 51.673MB
+      - 🇺🇸US-23.150.248.107-1328 | 53.513MB
+      - 🇺🇸US-23.150.248.50-0393 | 52.422MB
+      - 🇺🇸US-23.150.248.50-0395 | 52.901MB
+      - 🇺🇸US-23.150.248.50-1331 | 53.047MB
+      - 🇺🇸US-23.150.248.54-0382 | 51.975MB
+      - 🇺🇸US-23.150.248.54-1333 | 53.389MB
+      - 🇺🇸US-23.154.136.2-9004 | 33.381MB
+      - 🇺🇸US-23.251.121.242-0406 | 119.205MB
+      - 🇺🇸US-34.222.136.128-6406 | 90.323MB
+      - 🇺🇸US-37.19.198.160-0377 | 36.962MB
+      - 🇺🇸US-37.19.198.236-0379 | 37.435MB
+      - 🇺🇸US-37.19.198.243-0372 | 36.502MB
+      - 🇺🇸US-37.19.198.244-0374 | 37.465MB
+      - 🇺🇸US-38.110.1.111-0497 | 21.244MB
+      - 🇺🇸US-38.14.107.225-8968 | 97.719MB
+      - 🇺🇸US-38.14.107.226-6010 | 91.791MB
+      - 🇺🇸US-38.14.107.228-9016 | 93.99MB
+      - 🇺🇸US-38.14.107.233-9024 | 69.854MB
+      - 🇺🇸US-38.75.136.49-0454 | 11.746MB
+      - 🇺🇸US-38.75.136.49-0455 | 12.343MB
+      - 🇺🇸US-38.75.136.49-0456 | 10.132MB
+      - 🇺🇸US-38.75.136.49-0462 | 16.687MB
+      - 🇺🇸US-38.75.136.49-0463 | 18.162MB
+      - 🇺🇸US-38.91.106.227-8994 | 35.23MB
+      - 🇺🇸US-38.99.82.203-6024 | 35.863MB
+      - 🇺🇸US-38.99.82.203-8989 | 35.924MB
+      - 🇺🇸US-38.99.82.225-0471 | 28.643MB
+      - 🇺🇸US-38.99.82.225-0721 | 37.428MB
+      - 🇺🇸US-38.99.82.225-1482 | 29.496MB
+      - 🇺🇸US-45.55.2.232-0412 | 43.539MB
+      - 🇺🇸US-45.85.1.10-6409 | 26.883MB
+      - 🇺🇸US-54.184.77.199-0453 | 83.845MB
+      - 🇺🇸US-54.201.174.149-0882 | 90.854MB
+      - 🇺🇸US-69.50.93.90-9009 | 34.811MB
+      - 🇺🇸US-74.50.98.185-0398 | 33.958MB
+      - 🇺🇸US-77.83.141.171-0938 | 14.163MB
+      - 🇺🇸US-79.110.53.169-0885 | 52.901MB
+      - 🇺🇸US-92.118.112.111-1359 | 39.708MB
+    type: select
+  - name: 🎬国外媒体
+    proxies:
+      - 🔰国外流量
+    type: select
+  - name: 🍎苹果服务
+    proxies:
+      - 🚀直接连接
+      - 🔰国外流量
+    type: select
+  - name: 🚀直接连接
+    proxies:
+      - DIRECT
+    type: select
+rules:
+  - DOMAIN-SUFFIX,smtp,DIRECT
+  - DOMAIN-KEYWORD,aria2,DIRECT
+
+  - DOMAIN-SUFFIX,ampproject.org,🔰国外流量
+  - DOMAIN-SUFFIX,appspot.com,🔰国外流量
+  - DOMAIN-SUFFIX,blogger.com,🔰国外流量
+  - DOMAIN-SUFFIX,getoutline.org,🔰国外流量
+  - DOMAIN-SUFFIX,gvt0.com,🔰国外流量
+  - DOMAIN-SUFFIX,gvt1.com,🔰国外流量
+  - DOMAIN-SUFFIX,gvt3.com,🔰国外流量
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰国外流量
+  - DOMAIN-KEYWORD,google,🔰国外流量
+  - DOMAIN-KEYWORD,blogspot,🔰国外流量
+  - DOMAIN-SUFFIX,onedrive.live.com,🔰国外流量
+  - DOMAIN-SUFFIX,xboxlive.com,🔰国外流量
+  - DOMAIN-SUFFIX,cdninstagram.com,🔰国外流量
+  - DOMAIN-SUFFIX,fb.com,🔰国外流量
+  - DOMAIN-SUFFIX,fb.me,🔰国外流量
+  - DOMAIN-SUFFIX,fbaddins.com,🔰国外流量
+  - DOMAIN-SUFFIX,fbcdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,fbsbx.com,🔰国外流量
+  - DOMAIN-SUFFIX,fbworkmail.com,🔰国外流量
+  - DOMAIN-SUFFIX,instagram.com,🔰国外流量
+  - DOMAIN-SUFFIX,m.me,🔰国外流量
+  - DOMAIN-SUFFIX,messenger.com,🔰国外流量
+  - DOMAIN-SUFFIX,oculus.com,🔰国外流量
+  - DOMAIN-SUFFIX,oculuscdn.com,🔰国外流量
+  - DOMAIN-SUFFIX,rocksdb.org,🔰国外流量
+  - DOMAIN-SUFFIX,whatsapp.com,🔰国外流量
+  - DOMAIN-SUFFIX,whatsapp.net,🔰国外流量
+  - DOMAIN-KEYWORD,facebook,🔰国外流量
+  - IP-CIDR,3.123.36.126/32,🔰国外流量,no-resolve
+  - IP-CIDR,35.157.215.84/32,🔰国外流量,no-resolve
+  - IP-CIDR,35.157.217.255/32,🔰国外流量,no-resolve
+  - IP-CIDR,52.58.209.134/32,🔰国外流量,no-resolve
+  - IP-CIDR,54.93.124.31/32,🔰国外流量,no-resolve
+  - IP-CIDR,54.162.243.80/32,🔰国外流量,no-resolve
+  - IP-CIDR,54.173.34.141/32,🔰国外流量,no-resolve
+  - IP-CIDR,54.235.23.242/32,🔰国外流量,no-resolve
+  - IP-CIDR,169.45.248.118/32,🔰国外流量,no-resolve
+  - DOMAIN-SUFFIX,pscp.tv,🔰国外流量
+  - DOMAIN-SUFFIX,periscope.tv,🔰国外流量
+  - DOMAIN-SUFFIX,t.co,🔰国外流量
+  - DOMAIN-SUFFIX,twimg.co,🔰国外流量
+  - DOMAIN-SUFFIX,twimg.com,🔰国外流量
+  - DOMAIN-SUFFIX,twitpic.com,🔰国外流量
+  - DOMAIN-SUFFIX,vine.co,🔰国外流量
+  - DOMAIN-KEYWORD,twitter,🔰国外流量
+  - DOMAIN-SUFFIX,t.me,🔰国外流量
+  - DOMAIN-SUFFIX,tdesktop.com,🔰国外流量
+  - DOMAIN-SUFFIX,telegra.ph,🔰国外流量
+  - DOMAIN-SUFFIX,telegram.me,🔰国外流量
+  - DOMAIN-SUFFIX,telegram.org,🔰国外流量
+  - IP-CIDR,91.108.4.0/22,🔰国外流量,no-resolve
+  - IP-CIDR,91.108.8.0/22,🔰国外流量,no-resolve
+  - IP-CIDR,91.108.12.0/22,🔰国外流量,no-resolve
+  - IP-CIDR,91.108.16.0/22,🔰国外流量,no-resolve
+  - IP-CIDR,91.108.56.0/22,🔰国外流量,no-resolve
+  - IP-CIDR,149.154.160.0/20,🔰国外流量,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,🔰国外流量,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,🔰国外流量,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,🔰国外流量,no-resolve
+  - DOMAIN-SUFFIX,line.me,🔰国外流量
+  - DOMAIN-SUFFIX,line-apps.com,🔰国外流量
+  - DOMAIN-SUFFIX,line-scdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,naver.jp,🔰国外流量
+  - IP-CIDR,103.2.30.0/23,🔰国外流量,no-resolve
+  - IP-CIDR,125.209.208.0/20,🔰国外流量,no-resolve
+  - IP-CIDR,147.92.128.0/17,🔰国外流量,no-resolve
+  - IP-CIDR,203.104.144.0/21,🔰国外流量,no-resolve
+  - DOMAIN-SUFFIX,4shared.com,🔰国外流量
+  - DOMAIN-SUFFIX,520cc.cc,🔰国外流量
+  - DOMAIN-SUFFIX,881903.com,🔰国外流量
+  - DOMAIN-SUFFIX,9cache.com,🔰国外流量
+  - DOMAIN-SUFFIX,9gag.com,🔰国外流量
+  - DOMAIN-SUFFIX,abc.com,🔰国外流量
+  - DOMAIN-SUFFIX,abc.net.au,🔰国外流量
+  - DOMAIN-SUFFIX,abebooks.com,🔰国外流量
+  - DOMAIN-SUFFIX,amazon.co.jp,🔰国外流量
+  - DOMAIN-SUFFIX,apigee.com,🔰国外流量
+  - DOMAIN-SUFFIX,apk-dl.com,🔰国外流量
+  - DOMAIN-SUFFIX,apkfind.com,🔰国外流量
+  - DOMAIN-SUFFIX,apkmirror.com,🔰国外流量
+  - DOMAIN-SUFFIX,apkmonk.com,🔰国外流量
+  - DOMAIN-SUFFIX,apkpure.com,🔰国外流量
+  - DOMAIN-SUFFIX,aptoide.com,🔰国外流量
+  - DOMAIN-SUFFIX,archive.is,🔰国外流量
+  - DOMAIN-SUFFIX,archive.org,🔰国外流量
+  - DOMAIN-SUFFIX,arte.tv,🔰国外流量
+  - DOMAIN-SUFFIX,artstation.com,🔰国外流量
+  - DOMAIN-SUFFIX,arukas.io,🔰国外流量
+  - DOMAIN-SUFFIX,ask.com,🔰国外流量
+  - DOMAIN-SUFFIX,avg.com,🔰国外流量
+  - DOMAIN-SUFFIX,avgle.com,🔰国外流量
+  - DOMAIN-SUFFIX,badoo.com,🔰国外流量
+  - DOMAIN-SUFFIX,bandwagonhost.com,🔰国外流量
+  - DOMAIN-SUFFIX,bbc.com,🔰国外流量
+  - DOMAIN-SUFFIX,behance.net,🔰国外流量
+  - DOMAIN-SUFFIX,bibox.com,🔰国外流量
+  - DOMAIN-SUFFIX,biggo.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,binance.com,🔰国外流量
+  - DOMAIN-SUFFIX,bitcointalk.org,🔰国外流量
+  - DOMAIN-SUFFIX,bitfinex.com,🔰国外流量
+  - DOMAIN-SUFFIX,bitmex.com,🔰国外流量
+  - DOMAIN-SUFFIX,bit-z.com,🔰国外流量
+  - DOMAIN-SUFFIX,bloglovin.com,🔰国外流量
+  - DOMAIN-SUFFIX,bloomberg.cn,🔰国外流量
+  - DOMAIN-SUFFIX,bloomberg.com,🔰国外流量
+  - DOMAIN-SUFFIX,blubrry.com,🔰国外流量
+  - DOMAIN-SUFFIX,book.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,booklive.jp,🔰国外流量
+  - DOMAIN-SUFFIX,books.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,boslife.net,🔰国外流量
+  - DOMAIN-SUFFIX,box.com,🔰国外流量
+  - DOMAIN-SUFFIX,businessinsider.com,🔰国外流量
+  - DOMAIN-SUFFIX,bwh1.net,🔰国外流量
+  - DOMAIN-SUFFIX,castbox.fm,🔰国外流量
+  - DOMAIN-SUFFIX,cbc.ca,🔰国外流量
+  - DOMAIN-SUFFIX,cdw.com,🔰国外流量
+  - DOMAIN-SUFFIX,change.org,🔰国外流量
+  - DOMAIN-SUFFIX,channelnewsasia.com,🔰国外流量
+  - DOMAIN-SUFFIX,ck101.com,🔰国外流量
+  - DOMAIN-SUFFIX,clarionproject.org,🔰国外流量
+  - DOMAIN-SUFFIX,clyp.it,🔰国外流量
+  - DOMAIN-SUFFIX,cna.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,comparitech.com,🔰国外流量
+  - DOMAIN-SUFFIX,conoha.jp,🔰国外流量
+  - DOMAIN-SUFFIX,crucial.com,🔰国外流量
+  - DOMAIN-SUFFIX,cts.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,cw.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,cyberctm.com,🔰国外流量
+  - DOMAIN-SUFFIX,dailymotion.com,🔰国外流量
+  - DOMAIN-SUFFIX,dailyview.tw,🔰国外流量
+  - DOMAIN-SUFFIX,daum.net,🔰国外流量
+  - DOMAIN-SUFFIX,daumcdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,dcard.tw,🔰国外流量
+  - DOMAIN-SUFFIX,deepdiscount.com,🔰国外流量
+  - DOMAIN-SUFFIX,depositphotos.com,🔰国外流量
+  - DOMAIN-SUFFIX,deviantart.com,🔰国外流量
+  - DOMAIN-SUFFIX,disconnect.me,🔰国外流量
+  - DOMAIN-SUFFIX,discordapp.com,🔰国外流量
+  - DOMAIN-SUFFIX,discordapp.net,🔰国外流量
+  - DOMAIN-SUFFIX,disqus.com,🔰国外流量
+  - DOMAIN-SUFFIX,dlercloud.com,🔰国外流量
+  - DOMAIN-SUFFIX,dns2go.com,🔰国外流量
+  - DOMAIN-SUFFIX,dowjones.com,🔰国外流量
+  - DOMAIN-SUFFIX,dropbox.com,🔰国外流量
+  - DOMAIN-SUFFIX,dropboxusercontent.com,🔰国外流量
+  - DOMAIN-SUFFIX,duckduckgo.com,🔰国外流量
+  - DOMAIN-SUFFIX,dw.com,🔰国外流量
+  - DOMAIN-SUFFIX,dynu.com,🔰国外流量
+  - DOMAIN-SUFFIX,earthcam.com,🔰国外流量
+  - DOMAIN-SUFFIX,ebookservice.tw,🔰国外流量
+  - DOMAIN-SUFFIX,economist.com,🔰国外流量
+  - DOMAIN-SUFFIX,edgecastcdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,edu,🔰国外流量
+  - DOMAIN-SUFFIX,elpais.com,🔰国外流量
+  - DOMAIN-SUFFIX,enanyang.my,🔰国外流量
+  - DOMAIN-SUFFIX,encyclopedia.com,🔰国外流量
+  - DOMAIN-SUFFIX,esoir.be,🔰国外流量
+  - DOMAIN-SUFFIX,etherscan.io,🔰国外流量
+  - DOMAIN-SUFFIX,euronews.com,🔰国外流量
+  - DOMAIN-SUFFIX,evozi.com,🔰国外流量
+  - DOMAIN-SUFFIX,feedly.com,🔰国外流量
+  - DOMAIN-SUFFIX,firech.at,🔰国外流量
+  - DOMAIN-SUFFIX,flickr.com,🔰国外流量
+  - DOMAIN-SUFFIX,flitto.com,🔰国外流量
+  - DOMAIN-SUFFIX,foreignpolicy.com,🔰国外流量
+  - DOMAIN-SUFFIX,freebrowser.org,🔰国外流量
+  - DOMAIN-SUFFIX,freewechat.com,🔰国外流量
+  - DOMAIN-SUFFIX,freeweibo.com,🔰国外流量
+  - DOMAIN-SUFFIX,friday.tw,🔰国外流量
+  - DOMAIN-SUFFIX,ftchinese.com,🔰国外流量
+  - DOMAIN-SUFFIX,ftimg.net,🔰国外流量
+  - DOMAIN-SUFFIX,gate.io,🔰国外流量
+  - DOMAIN-SUFFIX,getlantern.org,🔰国外流量
+  - DOMAIN-SUFFIX,getsync.com,🔰国外流量
+  - DOMAIN-SUFFIX,globalvoices.org,🔰国外流量
+  - DOMAIN-SUFFIX,goo.ne.jp,🔰国外流量
+  - DOMAIN-SUFFIX,goodreads.com,🔰国外流量
+  - DOMAIN-SUFFIX,gov,🔰国外流量
+  - DOMAIN-SUFFIX,gov.tw,🔰国外流量
+  - DOMAIN-SUFFIX,greatfire.org,🔰国外流量
+  - DOMAIN-SUFFIX,gumroad.com,🔰国外流量
+  - DOMAIN-SUFFIX,hbg.com,🔰国外流量
+  - DOMAIN-SUFFIX,heroku.com,🔰国外流量
+  - DOMAIN-SUFFIX,hightail.com,🔰国外流量
+  - DOMAIN-SUFFIX,hk01.com,🔰国外流量
+  - DOMAIN-SUFFIX,hkbf.org,🔰国外流量
+  - DOMAIN-SUFFIX,hkbookcity.com,🔰国外流量
+  - DOMAIN-SUFFIX,hkej.com,🔰国外流量
+  - DOMAIN-SUFFIX,hket.com,🔰国外流量
+  - DOMAIN-SUFFIX,hkgolden.com,🔰国外流量
+  - DOMAIN-SUFFIX,hootsuite.com,🔰国外流量
+  - DOMAIN-SUFFIX,hudson.org,🔰国外流量
+  - DOMAIN-SUFFIX,hyread.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,ibtimes.com,🔰国外流量
+  - DOMAIN-SUFFIX,i-cable.com,🔰国外流量
+  - DOMAIN-SUFFIX,icij.org,🔰国外流量
+  - DOMAIN-SUFFIX,icoco.com,🔰国外流量
+  - DOMAIN-SUFFIX,imgur.com,🔰国外流量
+  - DOMAIN-SUFFIX,initiummall.com,🔰国外流量
+  - DOMAIN-SUFFIX,insecam.org,🔰国外流量
+  - DOMAIN-SUFFIX,ipfs.io,🔰国外流量
+  - DOMAIN-SUFFIX,issuu.com,🔰国外流量
+  - DOMAIN-SUFFIX,istockphoto.com,🔰国外流量
+  - DOMAIN-SUFFIX,japantimes.co.jp,🔰国外流量
+  - DOMAIN-SUFFIX,jiji.com,🔰国外流量
+  - DOMAIN-SUFFIX,jinx.com,🔰国外流量
+  - DOMAIN-SUFFIX,jkforum.net,🔰国外流量
+  - DOMAIN-SUFFIX,joinmastodon.org,🔰国外流量
+  - DOMAIN-SUFFIX,justmysocks.net,🔰国外流量
+  - DOMAIN-SUFFIX,justpaste.it,🔰国外流量
+  - DOMAIN-SUFFIX,kakao.com,🔰国外流量
+  - DOMAIN-SUFFIX,kakaocorp.com,🔰国外流量
+  - DOMAIN-SUFFIX,kik.com,🔰国外流量
+  - DOMAIN-SUFFIX,kobo.com,🔰国外流量
+  - DOMAIN-SUFFIX,kobobooks.com,🔰国外流量
+  - DOMAIN-SUFFIX,kodingen.com,🔰国外流量
+  - DOMAIN-SUFFIX,lemonde.fr,🔰国外流量
+  - DOMAIN-SUFFIX,lepoint.fr,🔰国外流量
+  - DOMAIN-SUFFIX,lihkg.com,🔰国外流量
+  - DOMAIN-SUFFIX,listennotes.com,🔰国外流量
+  - DOMAIN-SUFFIX,livestream.com,🔰国外流量
+  - DOMAIN-SUFFIX,logmein.com,🔰国外流量
+  - DOMAIN-SUFFIX,mail.ru,🔰国外流量
+  - DOMAIN-SUFFIX,mailchimp.com,🔰国外流量
+  - DOMAIN-SUFFIX,marc.info,🔰国外流量
+  - DOMAIN-SUFFIX,matters.news,🔰国外流量
+  - DOMAIN-SUFFIX,maying.co,🔰国外流量
+  - DOMAIN-SUFFIX,medium.com,🔰国外流量
+  - DOMAIN-SUFFIX,mega.nz,🔰国外流量
+  - DOMAIN-SUFFIX,mil,🔰国外流量
+  - DOMAIN-SUFFIX,mingpao.com,🔰国外流量
+  - DOMAIN-SUFFIX,mobile01.com,🔰国外流量
+  - DOMAIN-SUFFIX,myspace.com,🔰国外流量
+  - DOMAIN-SUFFIX,myspacecdn.com,🔰国外流量
+  - DOMAIN-SUFFIX,nanyang.com,🔰国外流量
+  - DOMAIN-SUFFIX,naver.com,🔰国外流量
+  - DOMAIN-SUFFIX,neowin.net,🔰国外流量
+  - DOMAIN-SUFFIX,newstapa.org,🔰国外流量
+  - DOMAIN-SUFFIX,nexitally.com,🔰国外流量
+  - DOMAIN-SUFFIX,nhk.or.jp,🔰国外流量
+  - DOMAIN-SUFFIX,nicovideo.jp,🔰国外流量
+  - DOMAIN-SUFFIX,nii.ac.jp,🔰国外流量
+  - DOMAIN-SUFFIX,nikkei.com,🔰国外流量
+  - DOMAIN-SUFFIX,nofile.io,🔰国外流量
+  - DOMAIN-SUFFIX,now.com,🔰国外流量
+  - DOMAIN-SUFFIX,nrk.no,🔰国外流量
+  - DOMAIN-SUFFIX,nyt.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytchina.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytcn.me,🔰国外流量
+  - DOMAIN-SUFFIX,nytco.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytimes.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytimg.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytlog.com,🔰国外流量
+  - DOMAIN-SUFFIX,nytstyle.com,🔰国外流量
+  - DOMAIN-SUFFIX,ok.ru,🔰国外流量
+  - DOMAIN-SUFFIX,okex.com,🔰国外流量
+  - DOMAIN-SUFFIX,on.cc,🔰国外流量
+  - DOMAIN-SUFFIX,orientaldaily.com.my,🔰国外流量
+  - DOMAIN-SUFFIX,overcast.fm,🔰国外流量
+  - DOMAIN-SUFFIX,paltalk.com,🔰国外流量
+  - DOMAIN-SUFFIX,pao-pao.net,🔰国外流量
+  - DOMAIN-SUFFIX,parsevideo.com,🔰国外流量
+  - DOMAIN-SUFFIX,pbxes.com,🔰国外流量
+  - DOMAIN-SUFFIX,pcdvd.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,pchome.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,pcloud.com,🔰国外流量
+  - DOMAIN-SUFFIX,picacomic.com,🔰国外流量
+  - DOMAIN-SUFFIX,pinimg.com,🔰国外流量
+  - DOMAIN-SUFFIX,pixiv.net,🔰国外流量
+  - DOMAIN-SUFFIX,player.fm,🔰国外流量
+  - DOMAIN-SUFFIX,plurk.com,🔰国外流量
+  - DOMAIN-SUFFIX,po18.tw,🔰国外流量
+  - DOMAIN-SUFFIX,potato.im,🔰国外流量
+  - DOMAIN-SUFFIX,potatso.com,🔰国外流量
+  - DOMAIN-SUFFIX,prism-break.org,🔰国外流量
+  - DOMAIN-SUFFIX,proxifier.com,🔰国外流量
+  - DOMAIN-SUFFIX,pt.im,🔰国外流量
+  - DOMAIN-SUFFIX,pts.org.tw,🔰国外流量
+  - DOMAIN-SUFFIX,pubu.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,pubu.tw,🔰国外流量
+  - DOMAIN-SUFFIX,pureapk.com,🔰国外流量
+  - DOMAIN-SUFFIX,quora.com,🔰国外流量
+  - DOMAIN-SUFFIX,quoracdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,rakuten.co.jp,🔰国外流量
+  - DOMAIN-SUFFIX,readingtimes.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,readmoo.com,🔰国外流量
+  - DOMAIN-SUFFIX,redbubble.com,🔰国外流量
+  - DOMAIN-SUFFIX,reddit.com,🔰国外流量
+  - DOMAIN-SUFFIX,redditmedia.com,🔰国外流量
+  - DOMAIN-SUFFIX,resilio.com,🔰国外流量
+  - DOMAIN-SUFFIX,reuters.com,🔰国外流量
+  - DOMAIN-SUFFIX,reutersmedia.net,🔰国外流量
+  - DOMAIN-SUFFIX,rfi.fr,🔰国外流量
+  - DOMAIN-SUFFIX,rixcloud.com,🔰国外流量
+  - DOMAIN-SUFFIX,roadshow.hk,🔰国外流量
+  - DOMAIN-SUFFIX,scmp.com,🔰国外流量
+  - DOMAIN-SUFFIX,scribd.com,🔰国外流量
+  - DOMAIN-SUFFIX,seatguru.com,🔰国外流量
+  - DOMAIN-SUFFIX,shadowsocks.org,🔰国外流量
+  - DOMAIN-SUFFIX,shopee.tw,🔰国外流量
+  - DOMAIN-SUFFIX,slideshare.net,🔰国外流量
+  - DOMAIN-SUFFIX,softfamous.com,🔰国外流量
+  - DOMAIN-SUFFIX,soundcloud.com,🔰国外流量
+  - DOMAIN-SUFFIX,ssrcloud.org,🔰国外流量
+  - DOMAIN-SUFFIX,startpage.com,🔰国外流量
+  - DOMAIN-SUFFIX,steamcommunity.com,🔰国外流量
+  - DOMAIN-SUFFIX,steemit.com,🔰国外流量
+  - DOMAIN-SUFFIX,steemitwallet.com,🔰国外流量
+  - DOMAIN-SUFFIX,t66y.com,🔰国外流量
+  - DOMAIN-SUFFIX,tapatalk.com,🔰国外流量
+  - DOMAIN-SUFFIX,teco-hk.org,🔰国外流量
+  - DOMAIN-SUFFIX,teco-mo.org,🔰国外流量
+  - DOMAIN-SUFFIX,teddysun.com,🔰国外流量
+  - DOMAIN-SUFFIX,textnow.me,🔰国外流量
+  - DOMAIN-SUFFIX,theguardian.com,🔰国外流量
+  - DOMAIN-SUFFIX,theinitium.com,🔰国外流量
+  - DOMAIN-SUFFIX,thetvdb.com,🔰国外流量
+  - DOMAIN-SUFFIX,tineye.com,🔰国外流量
+  - DOMAIN-SUFFIX,torproject.org,🔰国外流量
+  - DOMAIN-SUFFIX,tumblr.com,🔰国外流量
+  - DOMAIN-SUFFIX,turbobit.net,🔰国外流量
+  - DOMAIN-SUFFIX,tutanota.com,🔰国外流量
+  - DOMAIN-SUFFIX,tvboxnow.com,🔰国外流量
+  - DOMAIN-SUFFIX,udn.com,🔰国外流量
+  - DOMAIN-SUFFIX,unseen.is,🔰国外流量
+  - DOMAIN-SUFFIX,upmedia.mg,🔰国外流量
+  - DOMAIN-SUFFIX,uptodown.com,🔰国外流量
+  - DOMAIN-SUFFIX,urbandictionary.com,🔰国外流量
+  - DOMAIN-SUFFIX,ustream.tv,🔰国外流量
+  - DOMAIN-SUFFIX,uwants.com,🔰国外流量
+  - DOMAIN-SUFFIX,v2ray.com,🔰国外流量
+  - DOMAIN-SUFFIX,viber.com,🔰国外流量
+  - DOMAIN-SUFFIX,videopress.com,🔰国外流量
+  - DOMAIN-SUFFIX,vimeo.com,🔰国外流量
+  - DOMAIN-SUFFIX,voachinese.com,🔰国外流量
+  - DOMAIN-SUFFIX,voanews.com,🔰国外流量
+  - DOMAIN-SUFFIX,voxer.com,🔰国外流量
+  - DOMAIN-SUFFIX,vzw.com,🔰国外流量
+  - DOMAIN-SUFFIX,w3schools.com,🔰国外流量
+  - DOMAIN-SUFFIX,washingtonpost.com,🔰国外流量
+  - DOMAIN-SUFFIX,wattpad.com,🔰国外流量
+  - DOMAIN-SUFFIX,whoer.net,🔰国外流量
+  - DOMAIN-SUFFIX,wikimapia.org,🔰国外流量
+  - DOMAIN-SUFFIX,wikipedia.org,🔰国外流量
+  - DOMAIN-SUFFIX,wikiquote.org,🔰国外流量
+  - DOMAIN-SUFFIX,wikiwand.com,🔰国外流量
+  - DOMAIN-SUFFIX,winudf.com,🔰国外流量
+  - DOMAIN-SUFFIX,wire.com,🔰国外流量
+  - DOMAIN-SUFFIX,wordpress.com,🔰国外流量
+  - DOMAIN-SUFFIX,workflow.is,🔰国外流量
+  - DOMAIN-SUFFIX,worldcat.org,🔰国外流量
+  - DOMAIN-SUFFIX,wsj.com,🔰国外流量
+  - DOMAIN-SUFFIX,wsj.net,🔰国外流量
+  - DOMAIN-SUFFIX,xhamster.com,🔰国外流量
+  - DOMAIN-SUFFIX,xn--90wwvt03e.com,🔰国外流量
+  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,🔰国外流量
+  - DOMAIN-SUFFIX,xnxx.com,🔰国外流量
+  - DOMAIN-SUFFIX,xvideos.com,🔰国外流量
+  - DOMAIN-SUFFIX,yahoo.com,🔰国外流量
+  - DOMAIN-SUFFIX,yandex.ru,🔰国外流量
+  - DOMAIN-SUFFIX,ycombinator.com,🔰国外流量
+  - DOMAIN-SUFFIX,yesasia.com,🔰国外流量
+  - DOMAIN-SUFFIX,yes-news.com,🔰国外流量
+  - DOMAIN-SUFFIX,yomiuri.co.jp,🔰国外流量
+  - DOMAIN-SUFFIX,you-get.org,🔰国外流量
+  - DOMAIN-SUFFIX,zaobao.com,🔰国外流量
+  - DOMAIN-SUFFIX,zb.com,🔰国外流量
+  - DOMAIN-SUFFIX,zello.com,🔰国外流量
+  - DOMAIN-SUFFIX,zeronet.io,🔰国外流量
+  - DOMAIN-SUFFIX,zoom.us,🔰国外流量
+  - DOMAIN-KEYWORD,github,🔰国外流量
+  - DOMAIN-KEYWORD,jav,🔰国外流量
+  - DOMAIN-KEYWORD,pinterest,🔰国外流量
+  - DOMAIN-KEYWORD,porn,🔰国外流量
+  - DOMAIN-KEYWORD,wikileaks,🔰国外流量
+  - DOMAIN-SUFFIX,apartmentratings.com,🔰国外流量
+  - DOMAIN-SUFFIX,apartments.com,🔰国外流量
+  - DOMAIN-SUFFIX,bankmobilevibe.com,🔰国外流量
+  - DOMAIN-SUFFIX,bing.com,🔰国外流量
+  - DOMAIN-SUFFIX,booktopia.com.au,🔰国外流量
+  - DOMAIN-SUFFIX,cccat.io,🔰国外流量
+  - DOMAIN-SUFFIX,centauro.com.br,🔰国外流量
+  - DOMAIN-SUFFIX,clearsurance.com,🔰国外流量
+  - DOMAIN-SUFFIX,costco.com,🔰国外流量
+  - DOMAIN-SUFFIX,crackle.com,🔰国外流量
+  - DOMAIN-SUFFIX,depositphotos.cn,🔰国外流量
+  - DOMAIN-SUFFIX,dish.com,🔰国外流量
+  - DOMAIN-SUFFIX,dmm.co.jp,🔰国外流量
+  - DOMAIN-SUFFIX,dmm.com,🔰国外流量
+  - DOMAIN-SUFFIX,dnvod.tv,🔰国外流量
+  - DOMAIN-SUFFIX,esurance.com,🔰国外流量
+  - DOMAIN-SUFFIX,extmatrix.com,🔰国外流量
+  - DOMAIN-SUFFIX,fastpic.ru,🔰国外流量
+  - DOMAIN-SUFFIX,flipboard.com,🔰国外流量
+  - DOMAIN-SUFFIX,fnac.be,🔰国外流量
+  - DOMAIN-SUFFIX,fnac.com,🔰国外流量
+  - DOMAIN-SUFFIX,funkyimg.com,🔰国外流量
+  - DOMAIN-SUFFIX,fxnetworks.com,🔰国外流量
+  - DOMAIN-SUFFIX,gettyimages.com,🔰国外流量
+  - DOMAIN-SUFFIX,go.com,🔰国外流量
+  - DOMAIN-SUFFIX,here.com,🔰国外流量
+  - DOMAIN-SUFFIX,jcpenney.com,🔰国外流量
+  - DOMAIN-SUFFIX,jiehua.tv,🔰国外流量
+  - DOMAIN-SUFFIX,mailfence.com,🔰国外流量
+  - DOMAIN-SUFFIX,nationwide.com,🔰国外流量
+  - DOMAIN-SUFFIX,nbc.com,🔰国外流量
+  - DOMAIN-SUFFIX,nexon.com,🔰国外流量
+  - DOMAIN-SUFFIX,nordstrom.com,🔰国外流量
+  - DOMAIN-SUFFIX,nordstromimage.com,🔰国外流量
+  - DOMAIN-SUFFIX,nordstromrack.com,🔰国外流量
+  - DOMAIN-SUFFIX,superpages.com,🔰国外流量
+  - DOMAIN-SUFFIX,target.com,🔰国外流量
+  - DOMAIN-SUFFIX,thinkgeek.com,🔰国外流量
+  - DOMAIN-SUFFIX,tracfone.com,🔰国外流量
+  - DOMAIN-SUFFIX,unity3d.com,🔰国外流量
+  - DOMAIN-SUFFIX,uploader.jp,🔰国外流量
+  - DOMAIN-SUFFIX,vevo.com,🔰国外流量
+  - DOMAIN-SUFFIX,viu.tv,🔰国外流量
+  - DOMAIN-SUFFIX,vk.com,🔰国外流量
+  - DOMAIN-SUFFIX,vsco.co,🔰国外流量
+  - DOMAIN-SUFFIX,xfinity.com,🔰国外流量
+  - DOMAIN-SUFFIX,zattoo.com,🔰国外流量
+  - DOMAIN,testflight.apple.com,🔰国外流量
+  - DOMAIN-SUFFIX,appsto.re,🔰国外流量
+  - DOMAIN,books.itunes.apple.com,🔰国外流量
+  - DOMAIN,hls.itunes.apple.com,🔰国外流量
+  - DOMAIN,apps.apple.com,🔰国外流量
+  - DOMAIN,itunes.apple.com,🔰国外流量
+  - DOMAIN,api-glb-sea.smoot.apple.com,🔰国外流量
+  - DOMAIN,lookup-api.apple.com,🔰国外流量
+  - DOMAIN-SUFFIX,abc.xyz,🔰国外流量
+  - DOMAIN-SUFFIX,android.com,🔰国外流量
+  - DOMAIN-SUFFIX,androidify.com,🔰国外流量
+  - DOMAIN-SUFFIX,dialogflow.com,🔰国外流量
+  - DOMAIN-SUFFIX,autodraw.com,🔰国外流量
+  - DOMAIN-SUFFIX,capitalg.com,🔰国外流量
+  - DOMAIN-SUFFIX,certificate-transparency.org,🔰国外流量
+  - DOMAIN-SUFFIX,chrome.com,🔰国外流量
+  - DOMAIN-SUFFIX,chromeexperiments.com,🔰国外流量
+  - DOMAIN-SUFFIX,chromestatus.com,🔰国外流量
+  - DOMAIN-SUFFIX,chromium.org,🔰国外流量
+  - DOMAIN-SUFFIX,creativelab5.com,🔰国外流量
+  - DOMAIN-SUFFIX,debug.com,🔰国外流量
+  - DOMAIN-SUFFIX,deepmind.com,🔰国外流量
+  - DOMAIN-SUFFIX,firebaseio.com,🔰国外流量
+  - DOMAIN-SUFFIX,getmdl.io,🔰国外流量
+  - DOMAIN-SUFFIX,ggpht.com,🔰国外流量
+  - DOMAIN-SUFFIX,gmail.com,🔰国外流量
+  - DOMAIN-SUFFIX,gmodules.com,🔰国外流量
+  - DOMAIN-SUFFIX,godoc.org,🔰国外流量
+  - DOMAIN-SUFFIX,golang.org,🔰国外流量
+  - DOMAIN-SUFFIX,gstatic.com,🔰国外流量
+  - DOMAIN-SUFFIX,gv.com,🔰国外流量
+  - DOMAIN-SUFFIX,gwtproject.org,🔰国外流量
+  - DOMAIN-SUFFIX,itasoftware.com,🔰国外流量
+  - DOMAIN-SUFFIX,madewithcode.com,🔰国外流量
+  - DOMAIN-SUFFIX,material.io,🔰国外流量
+  - DOMAIN-SUFFIX,polymer-project.org,🔰国外流量
+  - DOMAIN-SUFFIX,admin.recaptcha.net,🔰国外流量
+  - DOMAIN-SUFFIX,recaptcha.net,🔰国外流量
+  - DOMAIN-SUFFIX,shattered.io,🔰国外流量
+  - DOMAIN-SUFFIX,synergyse.com,🔰国外流量
+  - DOMAIN-SUFFIX,tensorflow.org,🔰国外流量
+  - DOMAIN-SUFFIX,tfhub.dev,🔰国外流量
+  - DOMAIN-SUFFIX,tiltbrush.com,🔰国外流量
+  - DOMAIN-SUFFIX,waveprotocol.org,🔰国外流量
+  - DOMAIN-SUFFIX,waymo.com,🔰国外流量
+  - DOMAIN-SUFFIX,webmproject.org,🔰国外流量
+  - DOMAIN-SUFFIX,webrtc.org,🔰国外流量
+  - DOMAIN-SUFFIX,whatbrowser.org,🔰国外流量
+  - DOMAIN-SUFFIX,widevine.com,🔰国外流量
+  - DOMAIN-SUFFIX,x.company,🔰国外流量
+  - DOMAIN-SUFFIX,youtu.be,🔰国外流量
+  - DOMAIN-SUFFIX,yt.be,🔰国外流量
+  - DOMAIN-SUFFIX,ytimg.com,🔰国外流量
+  - DOMAIN-SUFFIX,1drv.com,🔰国外流量
+  - DOMAIN-SUFFIX,1drv.ms,🔰国外流量
+  - DOMAIN-SUFFIX,blob.core.windows.net,🔰国外流量
+  - DOMAIN-SUFFIX,livefilestore.com,🔰国外流量
+  - DOMAIN-SUFFIX,onedrive.com,🔰国外流量
+  - DOMAIN-SUFFIX,storage.live.com,🔰国外流量
+  - DOMAIN-SUFFIX,storage.msn.com,🔰国外流量
+  - DOMAIN,oneclient.sfx.ms,🔰国外流量
+  - DOMAIN-SUFFIX,0rz.tw,🔰国外流量
+  - DOMAIN-SUFFIX,4bluestones.biz,🔰国外流量
+  - DOMAIN-SUFFIX,9bis.net,🔰国外流量
+  - DOMAIN-SUFFIX,allconnected.co,🔰国外流量
+  - DOMAIN-SUFFIX,aol.com,🔰国外流量
+  - DOMAIN-SUFFIX,bcc.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,bit.ly,🔰国外流量
+  - DOMAIN-SUFFIX,bitshare.com,🔰国外流量
+  - DOMAIN-SUFFIX,blog.jp,🔰国外流量
+  - DOMAIN-SUFFIX,blogimg.jp,🔰国外流量
+  - DOMAIN-SUFFIX,blogtd.org,🔰国外流量
+  - DOMAIN-SUFFIX,broadcast.co.nz,🔰国外流量
+  - DOMAIN-SUFFIX,camfrog.com,🔰国外流量
+  - DOMAIN-SUFFIX,cfos.de,🔰国外流量
+  - DOMAIN-SUFFIX,citypopulation.de,🔰国外流量
+  - DOMAIN-SUFFIX,cloudfront.net,🔰国外流量
+  - DOMAIN-SUFFIX,ctitv.com.tw,🔰国外流量
+  - DOMAIN-SUFFIX,cuhk.edu.hk,🔰国外流量
+  - DOMAIN-SUFFIX,cusu.hk,🔰国外流量
+  - DOMAIN-SUFFIX,discord.gg,🔰国外流量
+  - DOMAIN-SUFFIX,discuss.com.hk,🔰国外流量
+  - DOMAIN-SUFFIX,dropboxapi.com,🔰国外流量
+  - DOMAIN-SUFFIX,duolingo.cn,🔰国外流量
+  - DOMAIN-SUFFIX,edditstatic.com,🔰国外流量
+  - DOMAIN-SUFFIX,flickriver.com,🔰国外流量
+  - DOMAIN-SUFFIX,focustaiwan.tw,🔰国外流量
+  - DOMAIN-SUFFIX,free.fr,🔰国外流量
+  - DOMAIN-SUFFIX,gigacircle.com,🔰国外流量
+  - DOMAIN-SUFFIX,hk-pub.com,🔰国外流量
+  - DOMAIN-SUFFIX,hosting.co.uk,🔰国外流量
+  - DOMAIN-SUFFIX,hwcdn.net,🔰国外流量
+  - DOMAIN-SUFFIX,ifixit.com,🔰国外流量
+  - DOMAIN-SUFFIX,iphone4hongkong.com,🔰国外流量
+  - DOMAIN-SUFFIX,iphonetaiwan.org,🔰国外流量
+  - DOMAIN-SUFFIX,iptvbin.com,🔰国外流量
+  - DOMAIN-SUFFIX,linksalpha.com,🔰国外流量
+  - DOMAIN-SUFFIX,manyvids.com,🔰国外流量
+  - DOMAIN-SUFFIX,myactimes.com,🔰国外流量
+  - DOMAIN-SUFFIX,newsblur.com,🔰国外流量
+  - DOMAIN-SUFFIX,now.im,🔰国外流量
+  - DOMAIN-SUFFIX,nowe.com,🔰国外流量
+  - DOMAIN-SUFFIX,redditlist.com,🔰国外流量
+  - DOMAIN-SUFFIX,s3.amazonaws.com,🔰国外流量
+  - DOMAIN-SUFFIX,signal.org,🔰国外流量
+  - DOMAIN-SUFFIX,smartmailcloud.com,🔰国外流量
+  - DOMAIN-SUFFIX,sparknotes.com,🔰国外流量
+  - DOMAIN-SUFFIX,streetvoice.com,🔰国外流量
+  - DOMAIN-SUFFIX,supertop.co,🔰国外流量
+  - DOMAIN-SUFFIX,tv.com,🔰国外流量
+  - DOMAIN-SUFFIX,typepad.com,🔰国外流量
+  - DOMAIN-SUFFIX,udnbkk.com,🔰国外流量
+  - DOMAIN-SUFFIX,urbanairship.com,🔰国外流量
+  - DOMAIN-SUFFIX,whispersystems.org,🔰国外流量
+  - DOMAIN-SUFFIX,wikia.com,🔰国外流量
+  - DOMAIN-SUFFIX,wn.com,🔰国外流量
+  - DOMAIN-SUFFIX,wolframalpha.com,🔰国外流量
+  - DOMAIN-SUFFIX,x-art.com,🔰国外流量
+  - DOMAIN-SUFFIX,yimg.com,🔰国外流量
+  - DOMAIN,api.steampowered.com,🔰国外流量
+  - DOMAIN,store.steampowered.com,🔰国外流量
+
+  - DOMAIN-SUFFIX,aaplimg.com,🍎苹果服务
+  - DOMAIN-SUFFIX,apple.co,🍎苹果服务
+  - DOMAIN-SUFFIX,apple.com,🍎苹果服务
+  - DOMAIN-SUFFIX,apple-cloudkit.com,🍎苹果服务
+  - DOMAIN-SUFFIX,appstore.com,🍎苹果服务
+  - DOMAIN-SUFFIX,cdn-apple.com,🍎苹果服务
+  - DOMAIN-SUFFIX,crashlytics.com,🍎苹果服务
+  - DOMAIN-SUFFIX,icloud.com,🍎苹果服务
+  - DOMAIN-SUFFIX,icloud-content.com,🍎苹果服务
+  - DOMAIN-SUFFIX,me.com,🍎苹果服务
+  - DOMAIN-SUFFIX,mzstatic.com,🍎苹果服务
+  - DOMAIN,www-cdn.icloud.com.akadns.net,🍎苹果服务
+
+  - DOMAIN-SUFFIX,t.me,✈️Telegram
+  - DOMAIN-SUFFIX,tdesktop.com,✈️Telegram
+  - DOMAIN-SUFFIX,telegra.ph,✈️Telegram
+  - DOMAIN-SUFFIX,telegram.me,✈️Telegram
+  - DOMAIN-SUFFIX,telegram.org,✈️Telegram
+  - IP-CIDR,91.108.4.0/22,✈️Telegram,no-resolve
+  - IP-CIDR,91.108.8.0/22,✈️Telegram,no-resolve
+  - IP-CIDR,91.108.12.0/22,✈️Telegram,no-resolve
+  - IP-CIDR,91.108.16.0/22,✈️Telegram,no-resolve
+  - IP-CIDR,91.108.56.0/22,✈️Telegram,no-resolve
+  - IP-CIDR,149.154.160.0/20,✈️Telegram,no-resolve
+  - IP-CIDR6,2001:b28:f23d::/48,✈️Telegram,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,✈️Telegram,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,✈️Telegram,no-resolve
+
+  - DOMAIN-SUFFIX,googlevideo.com,🎬Youtube
+  - DOMAIN-SUFFIX,youtube.com,🎬Youtube
+  - DOMAIN,youtubei.googleapis.com,🎬Youtube
+
+  - DOMAIN-SUFFIX,netflix.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflix.net,🎬Netflix
+  - DOMAIN-SUFFIX,nflxext.com,🎬Netflix
+  - DOMAIN-SUFFIX,nflximg.com,🎬Netflix
+  - DOMAIN-SUFFIX,nflximg.net,🎬Netflix
+  - DOMAIN-SUFFIX,nflxso.net,🎬Netflix
+  - DOMAIN-SUFFIX,nflxvideo.net,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest0.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest1.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest2.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest3.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest4.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest5.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest6.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest7.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest8.com,🎬Netflix
+  - DOMAIN-SUFFIX,netflixdnstest9.com,🎬Netflix
+  - IP-CIDR,23.246.0.0/18,🎬Netflix,no-resolve
+  - IP-CIDR,37.77.184.0/21,🎬Netflix,no-resolve
+  - IP-CIDR,45.57.0.0/17,🎬Netflix,no-resolve
+  - IP-CIDR,64.120.128.0/17,🎬Netflix,no-resolve
+  - IP-CIDR,66.197.128.0/17,🎬Netflix,no-resolve
+  - IP-CIDR,108.175.32.0/20,🎬Netflix,no-resolve
+  - IP-CIDR,192.173.64.0/18,🎬Netflix,no-resolve
+  - IP-CIDR,198.38.96.0/19,🎬Netflix,no-resolve
+  - IP-CIDR,198.45.48.0/20,🎬Netflix,no-resolve
+
+  - DOMAIN-SUFFIX,deezer.com,🎬国外媒体
+  - DOMAIN-SUFFIX,dzcdn.net,🎬国外媒体
+  - DOMAIN-SUFFIX,kkbox.com,🎬国外媒体
+  - DOMAIN-SUFFIX,kkbox.com.tw,🎬国外媒体
+  - DOMAIN-SUFFIX,kfs.io,🎬国外媒体
+  - DOMAIN-SUFFIX,joox.com,🎬国外媒体
+  - DOMAIN-SUFFIX,pandora.com,🎬国外媒体
+  - DOMAIN-SUFFIX,p-cdn.us,🎬国外媒体
+  - DOMAIN-SUFFIX,sndcdn.com,🎬国外媒体
+  - DOMAIN-SUFFIX,soundcloud.com,🎬国外媒体
+  - DOMAIN-SUFFIX,pscdn.co,🎬国外媒体
+  - DOMAIN-SUFFIX,scdn.co,🎬国外媒体
+  - DOMAIN-SUFFIX,spotify.com,🎬国外媒体
+  - DOMAIN-SUFFIX,spoti.fi,🎬国外媒体
+  - DOMAIN-KEYWORD,spotify.com,🎬国外媒体
+  - DOMAIN-KEYWORD,-spotify-com,🎬国外媒体
+  - DOMAIN-SUFFIX,tidal.com,🎬国外媒体
+  - DOMAIN-SUFFIX,c4assets.com,🎬国外媒体
+  - DOMAIN-SUFFIX,channel4.com,🎬国外媒体
+  - DOMAIN-SUFFIX,abema.io,🎬国外媒体
+  - DOMAIN-SUFFIX,ameba.jp,🎬国外媒体
+  - DOMAIN-SUFFIX,abema.tv,🎬国外媒体
+  - DOMAIN-SUFFIX,hayabusa.io,🎬国外媒体
+  - DOMAIN,abematv.akamaized.net,🎬国外媒体
+  - DOMAIN,ds-linear-abematv.akamaized.net,🎬国外媒体
+  - DOMAIN,ds-vod-abematv.akamaized.net,🎬国外媒体
+  - DOMAIN,linear-abematv.akamaized.net,🎬国外媒体
+  - DOMAIN-SUFFIX,aiv-cdn.net,🎬国外媒体
+  - DOMAIN-SUFFIX,aiv-delivery.net,🎬国外媒体
+  - DOMAIN-SUFFIX,amazonvideo.com,🎬国外媒体
+  - DOMAIN-SUFFIX,primevideo.com,🎬国外媒体
+  - DOMAIN,avodmp4s3ww-a.akamaihd.net,🎬国外媒体
+  - DOMAIN,d25xi40x97liuc.cloudfront.net,🎬国外媒体
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,🎬国外媒体
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,🎬国外媒体
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🎬国外媒体
+  - DOMAIN-KEYWORD,avoddashs,🎬国外媒体
+  - DOMAIN-SUFFIX,bahamut.com.tw,🎬国外媒体
+  - DOMAIN-SUFFIX,gamer.com.tw,🎬国外媒体
+  - DOMAIN,gamer-cds.cdn.hinet.net,🎬国外媒体
+  - DOMAIN,gamer2-cds.cdn.hinet.net,🎬国外媒体
+  - DOMAIN-SUFFIX,bbc.co.uk,🎬国外媒体
+  - DOMAIN-SUFFIX,bbci.co.uk,🎬国外媒体
+  - DOMAIN-KEYWORD,bbcfmt,🎬国外媒体
+  - DOMAIN-KEYWORD,uk-live,🎬国外媒体
+  - DOMAIN-SUFFIX,dazn.com,🎬国外媒体
+  - DOMAIN-SUFFIX,dazn-api.com,🎬国外媒体
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net,🎬国外媒体
+  - DOMAIN-KEYWORD,voddazn,🎬国外媒体
+  - DOMAIN-SUFFIX,bamgrid.com,🎬国外媒体
+  - DOMAIN-SUFFIX,disney-plus.net,🎬国外媒体
+  - DOMAIN-SUFFIX,disneyplus.com,🎬国外媒体
+  - DOMAIN-SUFFIX,dssott.com,🎬国外媒体
+  - DOMAIN,cdn.registerdisney.go.com,🎬国外媒体
+  - DOMAIN-SUFFIX,encoretvb.com,🎬国外媒体
+  - DOMAIN,edge.api.brightcove.com,🎬国外媒体
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net,🎬国外媒体
+  - DOMAIN-SUFFIX,fox.com,🎬国外媒体
+  - DOMAIN-SUFFIX,foxdcg.com,🎬国外媒体
+  - DOMAIN-SUFFIX,theplatform.com,🎬国外媒体
+  - DOMAIN-SUFFIX,uplynk.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hbo.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hbogo.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hbonow.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hbogoasia.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hbogoasia.hk,🎬国外媒体
+  - DOMAIN,bcbolthboa-a.akamaihd.net,🎬国外媒体
+  - DOMAIN,players.brightcove.net,🎬国外媒体
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com,🎬国外媒体
+  - DOMAIN,dai3fd1oh325y.cloudfront.net,🎬国外媒体
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🎬国外媒体
+  - DOMAIN,hboasia1-i.akamaihd.net,🎬国外媒体
+  - DOMAIN,hboasia2-i.akamaihd.net,🎬国外媒体
+  - DOMAIN,hboasia3-i.akamaihd.net,🎬国外媒体
+  - DOMAIN,hboasia4-i.akamaihd.net,🎬国外媒体
+  - DOMAIN,hboasia5-i.akamaihd.net,🎬国外媒体
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🎬国外媒体
+  - DOMAIN-SUFFIX,5itv.tv,🎬国外媒体
+  - DOMAIN-SUFFIX,ocnttv.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hulu.com,🎬国外媒体
+  - DOMAIN-SUFFIX,huluim.com,🎬国外媒体
+  - DOMAIN-SUFFIX,hulustream.com,🎬国外媒体
+  - DOMAIN-SUFFIX,happyon.jp,🎬国外媒体
+  - DOMAIN-SUFFIX,hulu.jp,🎬国外媒体
+  - DOMAIN-SUFFIX,itv.com,🎬国外媒体
+  - DOMAIN-SUFFIX,itvstatic.com,🎬国外媒体
+  - DOMAIN,itvpnpmobile-a.akamaihd.net,🎬国外媒体
+  - DOMAIN-SUFFIX,kktv.com.tw,🎬国外媒体
+  - DOMAIN-SUFFIX,kktv.me,🎬国外媒体
+  - DOMAIN,kktv-theater.kk.stream,🎬国外媒体
+  - DOMAIN-SUFFIX,linetv.tw,🎬国外媒体
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🎬国外媒体
+  - DOMAIN-SUFFIX,litv.tv,🎬国外媒体
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🎬国外媒体
+  - DOMAIN-SUFFIX,channel5.com,🎬国外媒体
+  - DOMAIN-SUFFIX,my5.tv,🎬国外媒体
+  - DOMAIN,d349g9zuie06uo.cloudfront.net,🎬国外媒体
+  - DOMAIN-SUFFIX,mytvsuper.com,🎬国外媒体
+  - DOMAIN-SUFFIX,tvb.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflix.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflix.net,🎬国外媒体
+  - DOMAIN-SUFFIX,nflxext.com,🎬国外媒体
+  - DOMAIN-SUFFIX,nflximg.com,🎬国外媒体
+  - DOMAIN-SUFFIX,nflximg.net,🎬国外媒体
+  - DOMAIN-SUFFIX,nflxso.net,🎬国外媒体
+  - DOMAIN-SUFFIX,nflxvideo.net,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest0.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest1.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest2.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest3.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest4.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest5.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest6.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest7.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest8.com,🎬国外媒体
+  - DOMAIN-SUFFIX,netflixdnstest9.com,🎬国外媒体
+  - IP-CIDR,23.246.0.0/18,🎬国外媒体,no-resolve
+  - IP-CIDR,37.77.184.0/21,🎬国外媒体,no-resolve
+  - IP-CIDR,45.57.0.0/17,🎬国外媒体,no-resolve
+  - IP-CIDR,64.120.128.0/17,🎬国外媒体,no-resolve
+  - IP-CIDR,66.197.128.0/17,🎬国外媒体,no-resolve
+  - IP-CIDR,108.175.32.0/20,🎬国外媒体,no-resolve
+  - IP-CIDR,192.173.64.0/18,🎬国外媒体,no-resolve
+  - IP-CIDR,198.38.96.0/19,🎬国外媒体,no-resolve
+  - IP-CIDR,198.45.48.0/20,🎬国外媒体,no-resolve
+  - DOMAIN-SUFFIX,dmc.nico,🎬国外媒体
+  - DOMAIN-SUFFIX,nicovideo.jp,🎬国外媒体
+  - DOMAIN-SUFFIX,nimg.jp,🎬国外媒体
+  - DOMAIN-SUFFIX,socdm.com,🎬国外媒体
+  - DOMAIN-SUFFIX,pbs.org,🎬国外媒体
+  - DOMAIN-SUFFIX,phncdn.com,🎬国外媒体
+  - DOMAIN-SUFFIX,pornhub.com,🎬国外媒体
+  - DOMAIN-SUFFIX,pornhubpremium.com,🎬国外媒体
+  - DOMAIN-SUFFIX,skyking.com.tw,🎬国外媒体
+  - DOMAIN,hamifans.emome.net,🎬国外媒体
+  - DOMAIN-SUFFIX,twitch.tv,🎬国外媒体
+  - DOMAIN-SUFFIX,twitchcdn.net,🎬国外媒体
+  - DOMAIN-SUFFIX,ttvnw.net,🎬国外媒体
+  - DOMAIN-SUFFIX,jtvnw.net,🎬国外媒体
+  - DOMAIN-SUFFIX,viu.com,🎬国外媒体
+  - DOMAIN-SUFFIX,viu.tv,🎬国外媒体
+  - DOMAIN,api.viu.now.com,🎬国外媒体
+  - DOMAIN,d1k2us671qcoau.cloudfront.net,🎬国外媒体
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,🎬国外媒体
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net,🎬国外媒体
+  - DOMAIN-SUFFIX,googlevideo.com,🎬国外媒体
+  - DOMAIN-SUFFIX,youtube.com,🎬国外媒体
+  - DOMAIN,youtubei.googleapis.com,🎬国外媒体
+  - DOMAIN-SUFFIX,biliapi.com,🎬哔哩哔哩
+  - DOMAIN-SUFFIX,biliapi.net,🎬哔哩哔哩
+  - DOMAIN-SUFFIX,bilibili.com,🎬哔哩哔哩
+  - DOMAIN-SUFFIX,bilibili.tv,🎬哔哩哔哩
+  - DOMAIN-SUFFIX,bilivideo.com,🎬哔哩哔哩
+
+  - DOMAIN-SUFFIX,local,DIRECT
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+  - IP-CIDR6,fd00::/8,DIRECT,no-resolve
+  - DOMAIN,app.adjust.com,DIRECT
+  - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+  - DOMAIN,dl.google.com,DIRECT
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,livew.l.qq.com,DIRECT
+  - DOMAIN,vd.l.qq.com,DIRECT
+  - DOMAIN,analytics.strava.com,DIRECT
+  - DOMAIN,msg.umeng.com,DIRECT
+  - DOMAIN,msg.umengcloud.com,DIRECT
+  - DOMAIN-SUFFIX,qhres.com,DIRECT
+  - DOMAIN-SUFFIX,qhimg.com,DIRECT
+  - DOMAIN-SUFFIX,akadns.net,DIRECT
+  - DOMAIN-SUFFIX,alibaba.com,DIRECT
+  - DOMAIN-SUFFIX,alicdn.com,DIRECT
+  - DOMAIN-SUFFIX,alikunlun.com,DIRECT
+  - DOMAIN-SUFFIX,alipay.com,DIRECT
+  - DOMAIN-SUFFIX,amap.com,DIRECT
+  - DOMAIN-SUFFIX,autonavi.com,DIRECT
+  - DOMAIN-SUFFIX,dingtalk.com,DIRECT
+  - DOMAIN-SUFFIX,mxhichina.com,DIRECT
+  - DOMAIN-SUFFIX,soku.com,DIRECT
+  - DOMAIN-SUFFIX,taobao.com,DIRECT
+  - DOMAIN-SUFFIX,tmall.com,DIRECT
+  - DOMAIN-SUFFIX,tmall.hk,DIRECT
+  - DOMAIN-SUFFIX,ykimg.com,DIRECT
+  - DOMAIN-SUFFIX,youku.com,DIRECT
+  - DOMAIN-SUFFIX,xiami.com,DIRECT
+  - DOMAIN-SUFFIX,xiami.net,DIRECT
+  - DOMAIN-SUFFIX,aaplimg.com,DIRECT
+  - DOMAIN-SUFFIX,apple.co,DIRECT
+  - DOMAIN-SUFFIX,apple.com,DIRECT
+  - DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+  - DOMAIN-SUFFIX,appstore.com,DIRECT
+  - DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+  - DOMAIN-SUFFIX,crashlytics.com,DIRECT
+  - DOMAIN-SUFFIX,icloud.com,DIRECT
+  - DOMAIN-SUFFIX,icloud-content.com,DIRECT
+  - DOMAIN-SUFFIX,me.com,DIRECT
+  - DOMAIN-SUFFIX,mzstatic.com,DIRECT
+  - DOMAIN,www-cdn.icloud.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidubcr.com,DIRECT
+  - DOMAIN-SUFFIX,bdstatic.com,DIRECT
+  - DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
+  - DOMAIN-SUFFIX,acgvideo.com,DIRECT
+  - DOMAIN-SUFFIX,hdslb.com,DIRECT
+  - DOMAIN-SUFFIX,blizzard.com,DIRECT
+  - DOMAIN-SUFFIX,battle.net,DIRECT
+  - DOMAIN,blzddist1-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,feiliao.com,DIRECT
+  - DOMAIN-SUFFIX,pstatp.com,DIRECT
+  - DOMAIN-SUFFIX,snssdk.com,DIRECT
+  - DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+  - DOMAIN-SUFFIX,toutiao.com,DIRECT
+  - DOMAIN-SUFFIX,cctv.com,DIRECT
+  - DOMAIN-SUFFIX,cctvpic.com,DIRECT
+  - DOMAIN-SUFFIX,livechina.com,DIRECT
+  - DOMAIN-SUFFIX,didialift.com,DIRECT
+  - DOMAIN-SUFFIX,didiglobal.com,DIRECT
+  - DOMAIN-SUFFIX,udache.com,DIRECT
+  - DOMAIN-SUFFIX,343480.com,DIRECT
+  - DOMAIN-SUFFIX,baduziyuan.com,DIRECT
+  - DOMAIN-SUFFIX,com-hs-hkdy.com,DIRECT
+  - DOMAIN-SUFFIX,czybjz.com,DIRECT
+  - DOMAIN-SUFFIX,dandanzan.com,DIRECT
+  - DOMAIN-SUFFIX,fjhps.com,DIRECT
+  - DOMAIN-SUFFIX,kuyunbo.club,DIRECT
+  - DOMAIN-SUFFIX,21cn.com,DIRECT
+  - DOMAIN-SUFFIX,hitv.com,DIRECT
+  - DOMAIN-SUFFIX,mgtv.com,DIRECT
+  - DOMAIN-SUFFIX,iqiyi.com,DIRECT
+  - DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+  - DOMAIN-SUFFIX,71.am.com,DIRECT
+  - DOMAIN-SUFFIX,jd.com,DIRECT
+  - DOMAIN-SUFFIX,jd.hk,DIRECT
+  - DOMAIN-SUFFIX,jdpay.com,DIRECT
+  - DOMAIN-SUFFIX,360buyimg.com,DIRECT
+  - DOMAIN-SUFFIX,iciba.com,DIRECT
+  - DOMAIN-SUFFIX,ksosoft.com,DIRECT
+  - DOMAIN-SUFFIX,meitu.com,DIRECT
+  - DOMAIN-SUFFIX,meitudata.com,DIRECT
+  - DOMAIN-SUFFIX,meitustat.com,DIRECT
+  - DOMAIN-SUFFIX,meipai.com,DIRECT
+  - DOMAIN-SUFFIX,duokan.com,DIRECT
+  - DOMAIN-SUFFIX,mi-img.com,DIRECT
+  - DOMAIN-SUFFIX,miui.com,DIRECT
+  - DOMAIN-SUFFIX,miwifi.com,DIRECT
+  - DOMAIN-SUFFIX,xiaomi.com,DIRECT
+  - DOMAIN-SUFFIX,microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,msecnd.net,DIRECT
+  - DOMAIN-SUFFIX,office365.com,DIRECT
+  - DOMAIN-SUFFIX,outlook.com,DIRECT
+  - DOMAIN-SUFFIX,s-microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,visualstudio.com,DIRECT
+  - DOMAIN-SUFFIX,windows.com,DIRECT
+  - DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+  - DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
+  - DOMAIN-SUFFIX,163.com,DIRECT
+  - DOMAIN-SUFFIX,126.net,DIRECT
+  - DOMAIN-SUFFIX,127.net,DIRECT
+  - DOMAIN-SUFFIX,163yun.com,DIRECT
+  - DOMAIN-SUFFIX,lofter.com,DIRECT
+  - DOMAIN-SUFFIX,netease.com,DIRECT
+  - DOMAIN-SUFFIX,ydstatic.com,DIRECT
+  - DOMAIN-SUFFIX,sina.com,DIRECT
+  - DOMAIN-SUFFIX,weibo.com,DIRECT
+  - DOMAIN-SUFFIX,weibocdn.com,DIRECT
+  - DOMAIN-SUFFIX,sohu.com,DIRECT
+  - DOMAIN-SUFFIX,sohucs.com,DIRECT
+  - DOMAIN-SUFFIX,sohu-inc.com,DIRECT
+  - DOMAIN-SUFFIX,v-56.com,DIRECT
+  - DOMAIN-SUFFIX,sogo.com,DIRECT
+  - DOMAIN-SUFFIX,sogou.com,DIRECT
+  - DOMAIN-SUFFIX,sogoucdn.com,DIRECT
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,steam-chat.com,DIRECT
+  - DOMAIN-SUFFIX,steamgames.com,DIRECT
+  - DOMAIN-SUFFIX,steamusercontent.com,DIRECT
+  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
+  - DOMAIN-SUFFIX,steamstat.us,DIRECT
+  - DOMAIN-SUFFIX,gtimg.com,DIRECT
+  - DOMAIN-SUFFIX,idqqimg.com,DIRECT
+  - DOMAIN-SUFFIX,igamecj.com,DIRECT
+  - DOMAIN-SUFFIX,myapp.com,DIRECT
+  - DOMAIN-SUFFIX,myqcloud.com,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+  - DOMAIN-SUFFIX,tencent.com,DIRECT
+  - DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+  - DOMAIN-SUFFIX,jstucdn.com,DIRECT
+  - DOMAIN-SUFFIX,zimuzu.io,DIRECT
+  - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+  - DOMAIN-SUFFIX,zmz2019.com,DIRECT
+  - DOMAIN-SUFFIX,zmzapi.com,DIRECT
+  - DOMAIN-SUFFIX,zmzapi.net,DIRECT
+  - DOMAIN-SUFFIX,zmzfile.com,DIRECT
+  - DOMAIN-SUFFIX,ccgslb.com,DIRECT
+  - DOMAIN-SUFFIX,ccgslb.net,DIRECT
+  - DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
+  - DOMAIN-SUFFIX,meixincdn.com,DIRECT
+  - DOMAIN-SUFFIX,ourdvs.com,DIRECT
+  - DOMAIN-SUFFIX,staticdn.net,DIRECT
+  - DOMAIN-SUFFIX,wangsu.com,DIRECT
+  - DOMAIN-SUFFIX,ipip.net,DIRECT
+  - DOMAIN-SUFFIX,ip.la,DIRECT
+  - DOMAIN-SUFFIX,ip-cdn.com,DIRECT
+  - DOMAIN-SUFFIX,ipv6-test.com,DIRECT
+  - DOMAIN-SUFFIX,test-ipv6.com,DIRECT
+  - DOMAIN-SUFFIX,whatismyip.com,DIRECT
+  - DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
+  - DOMAIN,speedtest.macpaw.com,DIRECT
+  - DOMAIN-SUFFIX,awesome-hd.me,DIRECT
+  - DOMAIN-SUFFIX,broadcasthe.net,DIRECT
+  - DOMAIN-SUFFIX,chdbits.co,DIRECT
+  - DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
+  - DOMAIN-SUFFIX,empornium.me,DIRECT
+  - DOMAIN-SUFFIX,gazellegames.net,DIRECT
+  - DOMAIN-SUFFIX,hdchina.org,DIRECT
+  - DOMAIN-SUFFIX,hdsky.me,DIRECT
+  - DOMAIN-SUFFIX,icetorrent.org,DIRECT
+  - DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
+  - DOMAIN-SUFFIX,keepfrds.com,DIRECT
+  - DOMAIN-SUFFIX,madsrevolution.net,DIRECT
+  - DOMAIN-SUFFIX,m-team.cc,DIRECT
+  - DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+  - DOMAIN-SUFFIX,ncore.cc,DIRECT
+  - DOMAIN-SUFFIX,open.cd,DIRECT
+  - DOMAIN-SUFFIX,ourbits.club,DIRECT
+  - DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
+  - DOMAIN-SUFFIX,privatehd.to,DIRECT
+  - DOMAIN-SUFFIX,redacted.ch,DIRECT
+  - DOMAIN-SUFFIX,springsunday.net,DIRECT
+  - DOMAIN-SUFFIX,tjupt.org,DIRECT
+  - DOMAIN-SUFFIX,totheglory.im,DIRECT
+  - DOMAIN-SUFFIX,acm.org,DIRECT
+  - DOMAIN-SUFFIX,acs.org,DIRECT
+  - DOMAIN-SUFFIX,aip.org,DIRECT
+  - DOMAIN-SUFFIX,ams.org,DIRECT
+  - DOMAIN-SUFFIX,annualreviews.org,DIRECT
+  - DOMAIN-SUFFIX,aps.org,DIRECT
+  - DOMAIN-SUFFIX,ascelibrary.org,DIRECT
+  - DOMAIN-SUFFIX,asm.org,DIRECT
+  - DOMAIN-SUFFIX,asme.org,DIRECT
+  - DOMAIN-SUFFIX,astm.org,DIRECT
+  - DOMAIN-SUFFIX,bmj.com,DIRECT
+  - DOMAIN-SUFFIX,cambridge.org,DIRECT
+  - DOMAIN-SUFFIX,cas.org,DIRECT
+  - DOMAIN-SUFFIX,clarivate.com,DIRECT
+  - DOMAIN-SUFFIX,ebscohost.com,DIRECT
+  - DOMAIN-SUFFIX,emerald.com,DIRECT
+  - DOMAIN-SUFFIX,engineeringvillage.com,DIRECT
+  - DOMAIN-SUFFIX,icevirtuallibrary.com,DIRECT
+  - DOMAIN-SUFFIX,ieee.org,DIRECT
+  - DOMAIN-SUFFIX,imf.org,DIRECT
+  - DOMAIN-SUFFIX,iop.org,DIRECT
+  - DOMAIN-SUFFIX,jamanetwork.com,DIRECT
+  - DOMAIN-SUFFIX,jhu.edu,DIRECT
+  - DOMAIN-SUFFIX,jstor.org,DIRECT
+  - DOMAIN-SUFFIX,karger.com,DIRECT
+  - DOMAIN-SUFFIX,libguides.com,DIRECT
+  - DOMAIN-SUFFIX,madsrevolution.net,DIRECT
+  - DOMAIN-SUFFIX,mpg.de,DIRECT
+  - DOMAIN-SUFFIX,myilibrary.com,DIRECT
+  - DOMAIN-SUFFIX,nature.com,DIRECT
+  - DOMAIN-SUFFIX,oecd-ilibrary.org,DIRECT
+  - DOMAIN-SUFFIX,osapublishing.org,DIRECT
+  - DOMAIN-SUFFIX,oup.com,DIRECT
+  - DOMAIN-SUFFIX,ovid.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordartonline.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordbibliographies.com,DIRECT
+  - DOMAIN-SUFFIX,oxfordmusiconline.com,DIRECT
+  - DOMAIN-SUFFIX,pnas.org,DIRECT
+  - DOMAIN-SUFFIX,proquest.com,DIRECT
+  - DOMAIN-SUFFIX,rsc.org,DIRECT
+  - DOMAIN-SUFFIX,sagepub.com,DIRECT
+  - DOMAIN-SUFFIX,sciencedirect.com,DIRECT
+  - DOMAIN-SUFFIX,sciencemag.org,DIRECT
+  - DOMAIN-SUFFIX,scopus.com,DIRECT
+  - DOMAIN-SUFFIX,siam.org,DIRECT
+  - DOMAIN-SUFFIX,spiedigitallibrary.org,DIRECT
+  - DOMAIN-SUFFIX,springer.com,DIRECT
+  - DOMAIN-SUFFIX,springerlink.com,DIRECT
+  - DOMAIN-SUFFIX,tandfonline.com,DIRECT
+  - DOMAIN-SUFFIX,un.org,DIRECT
+  - DOMAIN-SUFFIX,uni-bielefeld.de,DIRECT
+  - DOMAIN-SUFFIX,webofknowledge.com,DIRECT
+  - DOMAIN-SUFFIX,westlaw.com,DIRECT
+  - DOMAIN-SUFFIX,wiley.com,DIRECT
+  - DOMAIN-SUFFIX,worldbank.org,DIRECT
+  - DOMAIN-SUFFIX,worldscientific.com,DIRECT
+  - DOMAIN-SUFFIX,cn,DIRECT
+  - DOMAIN-SUFFIX,360in.com,DIRECT
+  - DOMAIN-SUFFIX,51ym.me,DIRECT
+  - DOMAIN-SUFFIX,8686c.com,DIRECT
+  - DOMAIN-SUFFIX,abchina.com,DIRECT
+  - DOMAIN-SUFFIX,accuweather.com,DIRECT
+  - DOMAIN-SUFFIX,aicoinstorge.com,DIRECT
+  - DOMAIN-SUFFIX,air-matters.com,DIRECT
+  - DOMAIN-SUFFIX,air-matters.io,DIRECT
+  - DOMAIN-SUFFIX,aixifan.com,DIRECT
+  - DOMAIN-SUFFIX,amd.com,DIRECT
+  - DOMAIN-SUFFIX,b612.net,DIRECT
+  - DOMAIN-SUFFIX,bdatu.com,DIRECT
+  - DOMAIN-SUFFIX,beitaichufang.com,DIRECT
+  - DOMAIN-SUFFIX,bjango.com,DIRECT
+  - DOMAIN-SUFFIX,booking.com,DIRECT
+  - DOMAIN-SUFFIX,bstatic.com,DIRECT
+  - DOMAIN-SUFFIX,cailianpress.com,DIRECT
+  - DOMAIN-SUFFIX,camera360.com,DIRECT
+  - DOMAIN-SUFFIX,chinaso.com,DIRECT
+  - DOMAIN-SUFFIX,chua.pro,DIRECT
+  - DOMAIN-SUFFIX,chuimg.com,DIRECT
+  - DOMAIN-SUFFIX,chunyu.mobi,DIRECT
+  - DOMAIN-SUFFIX,chushou.tv,DIRECT
+  - DOMAIN-SUFFIX,cmbchina.com,DIRECT
+  - DOMAIN-SUFFIX,cmbimg.com,DIRECT
+  - DOMAIN-SUFFIX,ctrip.com,DIRECT
+  - DOMAIN-SUFFIX,dfcfw.com,DIRECT
+  - DOMAIN-SUFFIX,docschina.org,DIRECT
+  - DOMAIN-SUFFIX,douban.com,DIRECT
+  - DOMAIN-SUFFIX,doubanio.com,DIRECT
+  - DOMAIN-SUFFIX,douyu.com,DIRECT
+  - DOMAIN-SUFFIX,dxycdn.com,DIRECT
+  - DOMAIN-SUFFIX,dytt8.net,DIRECT
+  - DOMAIN-SUFFIX,eastmoney.com,DIRECT
+  - DOMAIN-SUFFIX,eudic.net,DIRECT
+  - DOMAIN-SUFFIX,feng.com,DIRECT
+  - DOMAIN-SUFFIX,fengkongcloud.com,DIRECT
+  - DOMAIN-SUFFIX,frdic.com,DIRECT
+  - DOMAIN-SUFFIX,futu5.com,DIRECT
+  - DOMAIN-SUFFIX,futunn.com,DIRECT
+  - DOMAIN-SUFFIX,gandi.net,DIRECT
+  - DOMAIN-SUFFIX,geilicdn.com,DIRECT
+  - DOMAIN-SUFFIX,getpricetag.com,DIRECT
+  - DOMAIN-SUFFIX,gifshow.com,DIRECT
+  - DOMAIN-SUFFIX,godic.net,DIRECT
+  - DOMAIN-SUFFIX,hicloud.com,DIRECT
+  - DOMAIN-SUFFIX,hongxiu.com,DIRECT
+  - DOMAIN-SUFFIX,hostbuf.com,DIRECT
+  - DOMAIN-SUFFIX,huxiucdn.com,DIRECT
+  - DOMAIN-SUFFIX,huya.com,DIRECT
+  - DOMAIN-SUFFIX,infinitynewtab.com,DIRECT
+  - DOMAIN-SUFFIX,ithome.com,DIRECT
+  - DOMAIN-SUFFIX,java.com,DIRECT
+  - DOMAIN-SUFFIX,jidian.im,DIRECT
+  - DOMAIN-SUFFIX,kaiyanapp.com,DIRECT
+  - DOMAIN-SUFFIX,kaspersky-labs.com,DIRECT
+  - DOMAIN-SUFFIX,keepcdn.com,DIRECT
+  - DOMAIN-SUFFIX,kkmh.com,DIRECT
+  - DOMAIN-SUFFIX,licdn.com,DIRECT
+  - DOMAIN-SUFFIX,linkedin.com,DIRECT
+  - DOMAIN-SUFFIX,loli.net,DIRECT
+  - DOMAIN-SUFFIX,luojilab.com,DIRECT
+  - DOMAIN-SUFFIX,maoyan.com,DIRECT
+  - DOMAIN-SUFFIX,maoyun.tv,DIRECT
+  - DOMAIN-SUFFIX,meituan.com,DIRECT
+  - DOMAIN-SUFFIX,meituan.net,DIRECT
+  - DOMAIN-SUFFIX,mobike.com,DIRECT
+  - DOMAIN-SUFFIX,moke.com,DIRECT
+  - DOMAIN-SUFFIX,mubu.com,DIRECT
+  - DOMAIN-SUFFIX,myzaker.com,DIRECT
+  - DOMAIN-SUFFIX,nim-lang-cn.org,DIRECT
+  - DOMAIN-SUFFIX,nvidia.com,DIRECT
+  - DOMAIN-SUFFIX,oracle.com,DIRECT
+  - DOMAIN-SUFFIX,paypal.com,DIRECT
+  - DOMAIN-SUFFIX,paypalobjects.com,DIRECT
+  - DOMAIN-SUFFIX,qdaily.com,DIRECT
+  - DOMAIN-SUFFIX,qidian.com,DIRECT
+  - DOMAIN-SUFFIX,qyer.com,DIRECT
+  - DOMAIN-SUFFIX,qyerstatic.com,DIRECT
+  - DOMAIN-SUFFIX,raychase.net,DIRECT
+  - DOMAIN-SUFFIX,ronghub.com,DIRECT
+  - DOMAIN-SUFFIX,ruguoapp.com,DIRECT
+  - DOMAIN-SUFFIX,s-reader.com,DIRECT
+  - DOMAIN-SUFFIX,sankuai.com,DIRECT
+  - DOMAIN-SUFFIX,scomper.me,DIRECT
+  - DOMAIN-SUFFIX,seafile.com,DIRECT
+  - DOMAIN-SUFFIX,sm.ms,DIRECT
+  - DOMAIN-SUFFIX,smzdm.com,DIRECT
+  - DOMAIN-SUFFIX,snapdrop.net,DIRECT
+  - DOMAIN-SUFFIX,snwx.com,DIRECT
+  - DOMAIN-SUFFIX,sspai.com,DIRECT
+  - DOMAIN-SUFFIX,takungpao.com,DIRECT
+  - DOMAIN-SUFFIX,teamviewer.com,DIRECT
+  - DOMAIN-SUFFIX,tianyancha.com,DIRECT
+  - DOMAIN-SUFFIX,udacity.com,DIRECT
+  - DOMAIN-SUFFIX,uning.com,DIRECT
+  - DOMAIN-SUFFIX,vmware.com,DIRECT
+  - DOMAIN-SUFFIX,weather.com,DIRECT
+  - DOMAIN-SUFFIX,weico.cc,DIRECT
+  - DOMAIN-SUFFIX,weidian.com,DIRECT
+  - DOMAIN-SUFFIX,xiachufang.com,DIRECT
+  - DOMAIN-SUFFIX,ximalaya.com,DIRECT
+  - DOMAIN-SUFFIX,xinhuanet.com,DIRECT
+  - DOMAIN-SUFFIX,xmcdn.com,DIRECT
+  - DOMAIN-SUFFIX,yangkeduo.com,DIRECT
+  - DOMAIN-SUFFIX,zhangzishi.cc,DIRECT
+  - DOMAIN-SUFFIX,zhihu.com,DIRECT
+  - DOMAIN-SUFFIX,zhimg.com,DIRECT
+  - DOMAIN-SUFFIX,zhuihd.com,DIRECT
+  - DOMAIN,download.jetbrains.com,DIRECT
+  - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
+  - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT
+
+  - MATCH,⚓️其他流量
+
