@@ -217,3 +217,5 @@ vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?path=%2F&securit
 vless://3a67aaab-515e-4079-a518-d00cb5e6b20e@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=none&encryption=none&host=fatmelo.com&type=ws#
 vless://d854ce54-d193-4e13-9c0c-0125ecdec2de@knowledgemap.ubntddns.com:443?path=%2Fgetupdates&security=tls&encryption=none&host=knowledgemap.ubntddns.com&fp=random&type=ws&sni=knowledgemap.ubntddns.com#+
 vless://4b4cdddb-c15a-4c50-80ed-c0c175ed6f2c@x2uk-amazon.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?path=%2F&security=none&encryption=none&type=ws#
+vless://9464608b-7b8a-4e4f-be17-0b3ba79280c5@de1.my-watt.online:443?security=reality&encryption=none&pbk=2q7FOdHVu9_2_ahw9k1hjSwDm-9jhjYj2s8n4USrFSA&headerType=none&fp=chrome&spx=%2FC7tJHOa7PTBbadU&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=17e3bb#
+vless://2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@de4.connecton.surf:443?path=%2Fvless&security=tls&encryption=none&type=ws#
