@@ -1,3 +1,6 @@
+hysteria2://19e9637a-c770-4e51-a14d-d687d355d70e@cfjdg.chuifengji.top:15461?security=tls&insecure=1&sni=cfjdg.chuifengji.top#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+hysteria2://19e9637a-c770-4e51-a14d-d687d355d70e@cfjmg.chuifengji.top:15463?security=tls&insecure=1&sni=cfjmg.chuifengji.top#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+hysteria2://19e9637a-c770-4e51-a14d-d687d355d70e@cfjyg.chuifengji.top:15466?security=tls&insecure=1&sni=cfjyg.chuifengji.top#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@172.67.204.84:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=delicate-shape-a1b0.visot77057.workers.dev&fp=chrome&type=ws&sni=delicate-shape-a1b0.visot77057.workers.dev#
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nice-try-worker-inc.weredex932.workers.dev&fp=randomized&type=ws&sni=nice-try-worker-inc.weredex932.workers.dev#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@162.159.140.104:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ed19-dc7.pages.dev&fp=randomized&type=ws&sni=ed19-dc7.pages.dev#
